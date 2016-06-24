@@ -1,0 +1,11 @@
+---
+layout: default
+---
+{% include mapa-wojewodztwa.svg %}
+<ul>
+{% for lokacja in site.lokacje %}
+	{% unless lokacja.title == 'Łódź' %}
+	<li><strong><a href="{{ lokacja.url }}">{{ lokacja.title }}</a></strong></li>
+	{% endunless %}
+{% endfor %}
+</ul>

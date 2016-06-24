@@ -1,0 +1,10 @@
+<header role="banner">
+	<a href="/" title="Powrót na stronę główną"><img src="/img/filmowe-lodzkie-logo.svg" alt="Filmowe Łódzkie – logo"></a>
+</header>
+<nav class="main-nav" role="navigation">
+	<ul>
+	{% for menu in site.data.menu %}
+		<li><a href="{{ menu.permalink}}"{% if page.permalink == menu.permalink %} class="active"{% endif %}>{{ menu.title}}</a></li>
+	{% endfor %}
+	</ul>
+</nav>

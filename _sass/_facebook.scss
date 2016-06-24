@@ -1,0 +1,26 @@
+.fb-widget {
+	margin-top: 40px;
+	-webkit-transition: all .3s ease-in-out;
+	transition: all .3s ease-in-out;
+	@media screen and (min-width: 480px) {
+		position: absolute;
+		margin-top: 0;
+		position: fixed;
+		width: 340px;
+		top: 130px;
+		right: -340px;
+		z-index: 2;
+		&.open {
+			right: 0;
+		}
+	}
+	.fb-button {
+		display: none;
+		@media screen and (min-width: 480px) {
+			display: block;
+			position: absolute;
+			top: 0;
+			left: -30px;
+		}
+	}
+}

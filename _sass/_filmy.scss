@@ -1,0 +1,95 @@
+.sortuj {
+	margin-top: 20px;
+	@media screen and (min-width: 590px) {
+		display: inline;
+		margin-top: 0;
+		margin-left: 10px;
+	}
+}
+input, button {
+	padding: 3px 6px 2px 6px;
+}
+input {
+	background-color: transparent;
+	border: 2px solid $szary;
+}
+button {
+	background-color: $zolty;
+	color: #000;
+	border: none;
+	&:hover, &:active, &.asc, &.desc {
+		background-color: $czerwony;
+		color: #fff;
+		-webkit-tap-highlight-color: transparent;
+		outline: none;
+	}
+	&.asc, &.desc {
+		padding-right: 13px;
+	}
+	&.asc::after {
+			border-left: 5px solid transparent;
+			border-right: 5px solid transparent;
+			border-top: 5px solid #fff;
+			content: "";
+			height: 0;
+			position: relative;
+			right: -5px;
+			top: 12px;
+			width: 0;
+	}
+	&.desc::after {
+			border-bottom: 5px solid #fff;
+			border-left: 5px solid transparent;
+			border-right: 5px solid transparent;
+			content: "";
+			height: 0;
+			position: relative;
+			right: -5px;
+			top: -11px;
+			width: 0;
+	}
+}
+#filmy {
+	ul {
+		@extend .clearfix;
+		padding: 0;
+		margin-top: 40px;
+		max-width: 100%;
+		li {
+			width: 300px;
+			list-style: none;
+			float: left;
+			padding-bottom: 20px;
+			border-bottom: 2px solid $szary;
+			margin: 0 20px 20px 0;
+			h3 {
+				white-space: nowrap;
+				overflow: hidden;
+				text-overflow: ellipsis;
+			}
+			h3, p {
+				margin: 0;
+			}
+			.gatunek {
+				font-style: italic;
+			}
+		}
+	}
+}
+.klatka {
+	background-color: $szary;
+	display: inline-block;
+	margin-bottom: 10px;
+	img {
+		display: block;
+	}
+}
+.film-meta {
+	border-top: 2px solid $szary;
+	padding: 20px 0;
+	border-bottom: 2px solid $szary;
+	margin-bottom: 40px;
+	p {
+		margin: 0;
+	}
+}

@@ -1,0 +1,24 @@
+---
+layout: default
+---
+<div id="filmy">
+	<input class="search" placeholder="Szukaj…" />
+	<div class="sortuj">Sortuj&nbsp;wg:&nbsp;<button class="sort" data-sort="tytul">Tytuł</button> <button class="sort" data-sort="rezyser">Reżyser</button> <button class="sort" data-sort="rok">Rok</button> <button class="sort" data-sort="gatunek">Gatunek</button></div>
+	<ul class="list">
+	{% for film in site.filmy %}
+		<li class="film">
+			<a href="/filmy/{{ film.link }}/" title="{{ film.title }}">
+				<div class="klatka" href="/filmy/{{ film.link }}/">
+					<img class="svg" src="/img/klisza.svg">
+					{% unless film.fot %}<img class="kadr" src="/filmy/{{ film.link }}.jpg" alt="{{ film.title }}" width="300" height="200">{% else %}<img class="kadr" src="/img/placeholder.png" alt="Brak zdjęcia do tego filmu" width="300" height="200">{% endunless %}
+					<img class="svg" src="/img/klisza.svg">
+				</div>
+				<h3 class="tytul"><strong>{{ film.title }}</strong></h3>
+				<p class="rezyser">{{ film.rez }}</p>
+				<p class="rok">{{ film.rok }} r.</p>
+				<p class="gatunek">{{ film.gat }}</p>
+			</a>
+		</li>
+	{% endfor %}
+	</ul>
+</div>

@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+	{% include head.html %}
+	<body>
+		<div class="container">
+			{% include header.html %}
+			<div class="slajder">
+			{% for slajd in site.data.slajder %}
+				<div>
+					<img class="svg" src="/img/klisza.svg">
+					<a href="{{ slajd.link }}" class="slajd">
+						<img src="/img/slajdy/{{ slajd.foto }}">
+						<div class="slajd-tekst">
+							{% if slajd.tytul %}<h3 class="h2">{{ slajd.tytul }}</h3>{% endif %}
+							{% if slajd.tekst %}<p>{{ slajd.tekst }}</p>{% endif %}
+						</div>
+					</a>
+					<img class="svg" src="/img/klisza.svg">
+				</div>
+			{% endfor %}
+			</div>
+			{% include footer.html %}
+		</div>
+	</body>
+</html>
