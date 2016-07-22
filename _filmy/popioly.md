@@ -1,5 +1,5 @@
 ---
-title: Popioly
+title: Popioły
 rez: Wajda Andrzej
 rok: 1965
 gat: gatunek
