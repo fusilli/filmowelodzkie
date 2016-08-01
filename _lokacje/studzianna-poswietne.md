@@ -26,13 +26,13 @@ legenda:
         link: honor-dziecka
       - tytul: Katyń
         link: katyn
-  - miejsce: Młynczysko
+  - miejsce: Młyńczysko
     filmy:
       - tytul: Jak rozpętałem II wojnę światową
         link: jak-rozpetalem-ii-wojne-swiatowa
 ---
 
-Gmina i miejscowość Poświętne są bardzo mocno związane z kinematografią. W autentycznych plenerach Gminy zostało zrealizowanych aż 16 filmów. Powstawały tu zdjęcia do klasyki polskiego kina – [*Jak rozpętałem II wojnę światową*](/filmy/jak-rozpetalem-ii-wojne-swiatowa/), [*Czterech pancernych i psa*](/filmy/czterej-pancerni-i-pies/), [*Hubala*](/filmy/hubal/), czy [*Katynia*](/filmy/katyn/). Prawdopodobnie najbardziej znana rola tego miejsca związana jest z pierwszym z tych filmów – to tu Franek Dolas (Marian Kociniak) zawisł na spadochronie przy dzwonnicy kościoła pw. św. Filipa Neri i św. Jana Chrzciciela. To również tu zagrał z partyzantem w trzy karty, tracąc spodnie, saperki i pas…
+Gmina i miejscowość Poświętne są bardzo mocno związane z kinematografią. W autentycznych plenerach Gminy zostało zrealizowanych aż 16 filmów. Powstawały tu zdjęcia do klasyki polskiego kina – [*Jak rozpętałem II wojnę światową*](/filmy/jak-rozpetalem-ii-wojne-swiatowa/), [*Czterech pancernych i psa*](/filmy/czterej-pancerni-i-pies/), [*Hubala*](/filmy/hubal/), czy [*Katynia*](/filmy/katyn/). Prawdopodobnie najbardziej znana rola tego miejsca związana jest z pierwszym z tych filmów – to tu Franek Dolas (Marian Kociniak) zawisł na spadochronie przy dzwonnicy kościoła pw. św. Filipa Neri i św. Jana Chrzciciela.
 
 Najważniejszym plenerem jest dominująca nad centrum miejscowości olbrzymia bazylika. W jej wnętrzu realizowana była scena z filmu [*Hubal*](/filmy/hubal/), gdzie żołnierze z oddziału majora Dobrzańskiego brali udział w Pasterce. Sceną tą nawiązano do autentycznej sytuacji z grudnia 1939 r., gdy oddział „Hubala” wkroczył do świątyni aby uczestniczyć w mszy. Natomiast w [*Jak rozpętałem II wojnę światową*](/filmy/jak-rozpetalem-ii-wojne-swiatowa/) wykorzystano nie tylko dzwonnicę stojącą przed świątynią, ale również teren przy kościele, gdzie doszło do rozmowy oficera niemieckiego z przeorem klasztoru.
 
@@ -48,7 +48,7 @@ Również inne miejsca w gminie były wykorzystywane przez filmowców. W malowni
 
 ## Tytuły filmów
 
-- [*Czterej pancerni i pies*](/filmy/czterej-pancerni-i-pies/), reż. Konrad Nałęski (1966–1970)
+- [*Czterej pancerni i pies*](/filmy/czterej-pancerni-i-pies/), reż. Konrad Nałęcki (1966–1970)
 - [*Jak rozpętałem II wojnę światową*](/filmy/jak-rozpetalem-ii-wojne-swiatowa/), reż. Tadeusz Chmielewski (1969)
 - [*Doktor Ewa*](/filmy/doktor-ewa/), reż. Henryk Kluba (1970)
 - [*Hubal*](/filmy/hubal/), reż. Bohdan Poręba (1973)
