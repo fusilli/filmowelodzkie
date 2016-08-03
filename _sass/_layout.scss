@@ -75,3 +75,14 @@ svg a:hover circle {
     width: 100% !important;
     height: 100% !important;
 }
+ul.partnerzy {
+	padding: 0;
+	li {
+		list-style: none;
+		margin-bottom: 40px;
+		img {
+			display: block;
+			margin-bottom: 10px;
+		}
+	}
+}
