@@ -2,7 +2,8 @@
 title: Biesy
 rez: Wajda Andrzej
 rok: 1988
-gat: gatunek
+gatunki: 
+  - gatunek: gatunek
 lokacje:
   - lokacja: Piotrków Trybunalski
     link: piotrkow-trybunalski

@@ -2,7 +2,8 @@
 title: Hubal
 rez: Poręba Bohdan
 rok: 1969
-gat: gatunek
+gatunki: 
+  - gatunek: gatunek
 lokacje:
   - lokacja: Inowłódz
     link: inowlodz

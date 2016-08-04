@@ -2,7 +2,8 @@
 title: Nowy Jork, czwarta rano
 rez: Krauze Krzysztof
 rok: 1988
-gat: gatunek
+gatunki: 
+  - gatunek: gatunek
 lokacje:
   - lokacja: Piotrków Trybunalski
     link: piotrkow-trybunalski

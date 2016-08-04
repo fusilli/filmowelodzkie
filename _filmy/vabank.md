@@ -2,7 +2,8 @@
 title: Vabank
 rez: Machulski Juliusz
 rok: 1981
-gat: gatunek
+gatunki: 
+  - gatunek: gatunek
 lokacje:
   - lokacja: Piotrków Trybunalski
     link: piotrkow-trybunalski

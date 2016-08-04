@@ -2,7 +2,8 @@
 title: Żołnierz zwycięstwa
 rez: Jakubowska Wanda
 rok: 1953
-gat: gatunek
+gatunki: 
+  - gatunek: gatunek
 lokacje:
   - lokacja: Inowłódz
     link: inowlodz

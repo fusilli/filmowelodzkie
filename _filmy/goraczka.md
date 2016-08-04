@@ -2,7 +2,8 @@
 title: Gorączka
 rez: Holland Agnieszka
 rok: 1980
-gat: gatunek
+gatunki: 
+  - gatunek: gatunek
 lokacje:
   - lokacja: Skierniewice
     link: skierniewice

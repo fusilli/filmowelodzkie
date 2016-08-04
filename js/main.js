@@ -9,6 +9,12 @@ $(document).ready(function(){
   $('.slajder').slick({
   	autoplay: true
   });
+  $(".przycisk").click(function(){
+      var value = $(this).text();
+      var input = $('.search');
+      input.val(value);
+      filmList.search(value);
+  });
   $('.fb-button').click(function(event){
   	event.preventDefault();
   	$('.fb-widget').toggleClass('open');

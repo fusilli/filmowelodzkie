@@ -2,7 +2,8 @@
 title: Romantyczni
 rez: Różewicz Stanisław
 rok: 1970
-gat: gatunek
+gatunki: 
+  - gatunek: gatunek
 lokacje:
   - lokacja: Inowłódz
     link: inowlodz

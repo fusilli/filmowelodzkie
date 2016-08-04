@@ -2,7 +2,8 @@
 title: Cudowne lato
 rez: Brylski Ryszard
 rok: 2009
-gat: gatunek
+gatunki: 
+  - gatunek: gatunek
 lokacje:
   - lokacja: Zgierz
     link: zgierz

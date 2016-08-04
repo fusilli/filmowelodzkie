@@ -2,7 +2,8 @@
 title: 300 mil do nieba
 rez: Dejczer Maciej
 rok: 1989
-gat: gatunek
+gatunki: 
+  - gatunek: gatunek
 lokacje:
   - lokacja: Zgierz
     link: zgierz

@@ -2,7 +2,8 @@
 title: Ziemia obiecana
 rez: Wajda Andrzej
 rok: 1974
-gat: gatunek
+gatunki: 
+  - gatunek: gatunek
 lokacje:
   - lokacja: Łódź – Muzeum Kinematografii
     link: lodz-muzeum-kinematografii

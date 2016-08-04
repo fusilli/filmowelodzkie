@@ -2,7 +2,8 @@
 title: Południe–północ
 rez: Karwowski Łukasz
 rok: 2006
-gat: gatunek
+gatunki: 
+  - gatunek: gatunek
 lokacje:
   - lokacja: Sulejów
     link: sulejow

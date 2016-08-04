@@ -2,7 +2,8 @@
 title: Rzeczpospolita babska
 rez: Przybył Hieronim
 rok: 1969
-gat: gatunek
+gatunki: 
+  - gatunek: gatunek
 lokacje:
   - lokacja: Wolbórz
     link: wolborz

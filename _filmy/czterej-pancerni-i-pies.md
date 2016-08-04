@@ -2,7 +2,8 @@
 title: Czterej pancerni i pies
 rez: Nałęcki Konrad
 rok: 1966–1970
-gat: gatunek
+gatunki: 
+  - gatunek: gatunek
 lokacje:
   - lokacja: Inowłódz
     link: inowlodz

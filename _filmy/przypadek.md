@@ -2,7 +2,8 @@
 title: Przypadek
 rez: Kieślowski Krzysztof
 rok: 1981
-gat: gatunek
+gatunki: 
+  - gatunek: gatunek
 lokacje:
   - lokacja: Łódź – Wytwórnia Filmów Fabularnych
     link: lodz-wytwornia-filmow-fabularnych

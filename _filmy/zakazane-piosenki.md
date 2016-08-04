@@ -2,7 +2,8 @@
 title: Zakazane piosenki
 rez: Buczkowski Leonard
 rok: 1946
-gat: gatunek
+gatunki: 
+  - gatunek: gatunek
 lokacje:
   - lokacja: Łódź – Wytwórnia Filmów Fabularnych
     link: lodz-wytwornia-filmow-fabularnych

@@ -2,7 +2,8 @@
 title: Lotna
 rez: Wajda Andrzej
 rok: 1959
-gat: gatunek
+gatunki: 
+  - gatunek: gatunek
 lokacje:
   - lokacja: Nieborów
     link: nieborow

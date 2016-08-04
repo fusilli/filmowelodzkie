@@ -2,7 +2,8 @@
 title: Gwiazda piołun
 rez: Kluba Henryk
 rok: 1988
-gat: gatunek
+gatunki: 
+  - gatunek: gatunek
 lokacje:
   - lokacja: Sulejów
     link: sulejow

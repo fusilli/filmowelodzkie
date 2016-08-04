@@ -2,7 +2,8 @@
 title: Bal na dworcu w Koluszkach
 rez: Bajon Filip
 rok: 1989
-gat: gatunek
+gatunki: 
+  - gatunek: gatunek
 lokacje:
   - lokacja: Łódź – Wytwórnia Filmów Fabularnych
     link: lodz-wytwornia-filmow-fabularnych

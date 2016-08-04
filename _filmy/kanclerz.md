@@ -2,7 +2,8 @@
 title: Kanclerz
 rez: Ber Ryszard
 rok: 1989
-gat: gatunek
+gatunki: 
+  - gatunek: gatunek
 lokacje:
   - lokacja: Inowłódz
     link: inowlodz

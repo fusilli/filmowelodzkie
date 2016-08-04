@@ -2,7 +2,8 @@
 title: Ida
 rez: Pawlikowski Paweł
 rok: 2013
-gat: gatunek
+gatunki: 
+  - gatunek: gatunek
 lokacje:
   - lokacja: Zgierz
     link: zgierz

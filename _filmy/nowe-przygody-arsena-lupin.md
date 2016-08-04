@@ -2,7 +2,8 @@
 title: Nowe przygody Arsena Lupin
 rez: Nahum Jacques
 rok: 1993
-gat: gatunek
+gatunki: 
+  - gatunek: gatunek
 lokacje:
   - lokacja: Nieborów
     link: nieborow

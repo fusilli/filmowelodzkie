@@ -2,7 +2,8 @@
 title: Ojciec Mateusz
 rez: Kostenko Andrzej i inni
 rok: 2008–2016
-gat: gatunek
+gatunki: 
+  - gatunek: gatunek
 lokacje:
   - lokacja: Nieborów
     link: nieborow

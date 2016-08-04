@@ -2,7 +2,8 @@
 title: Przeprowadzki
 rez: Wosiewicz Leszek
 rok: 2000
-gat: gatunek
+gatunki: 
+  - gatunek: gatunek
 lokacje:
   - lokacja: Piotrków Trybunalski
     link: piotrkow-trybunalski

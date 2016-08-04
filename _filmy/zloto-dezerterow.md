@@ -2,7 +2,8 @@
 title: Złoto dezerterów
 rez: Majewski Janusz
 rok: 1998
-gat: gatunek
+gatunki: 
+  - gatunek: gatunek
 lokacje:
   - lokacja: Nieborów
     link: nieborow

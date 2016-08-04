@@ -2,7 +2,8 @@
 title: Święta wojna
 rez: Dziedzina Julian
 rok: 1965
-gat: gatunek
+gatunki: 
+  - gatunek: gatunek
 lokacje:
   - lokacja: Piotrków Trybunalski
     link: piotrkow-trybunalski

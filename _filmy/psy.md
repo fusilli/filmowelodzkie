@@ -2,7 +2,8 @@
 title: Psy
 rez: Pasikowski Władysław
 rok: 1992
-gat: gatunek
+gatunki: 
+  - gatunek: gatunek
 lokacje:
   - lokacja: Łódź – Wytwórnia Filmów Fabularnych
     link: lodz-wytwornia-filmow-fabularnych

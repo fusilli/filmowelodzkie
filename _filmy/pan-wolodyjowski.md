@@ -2,7 +2,8 @@
 title: Pan Wołodyjowski
 rez: Hoffman Jerzy
 rok: 1969
-gat: gatunek
+gatunki: 
+  - gatunek: gatunek
 lokacje:
   - lokacja: Łódź – Wytwórnia Filmów Fabularnych
     link: lodz-wytwornia-filmow-fabularnych

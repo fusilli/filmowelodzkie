@@ -2,7 +2,8 @@
 title: Kawalerskie życie na obczyźnie
 rez: Barański Andrzej
 rok: 1992
-gat: gatunek
+gatunki: 
+  - gatunek: gatunek
 lokacje:
   - lokacja: Zgierz
     link: zgierz

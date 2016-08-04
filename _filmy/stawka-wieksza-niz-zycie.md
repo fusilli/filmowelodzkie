@@ -2,7 +2,8 @@
 title: Stawka większa niż życie
 rez: Konic Andrzej, Morgenstern Janusz
 rok: 1967–1968
-gat: gatunek
+gatunki: 
+  - gatunek: gatunek
 lokacje:
   - lokacja: Łódź – Muzeum Kinematografii
     link: lodz-muzeum-kinematografii

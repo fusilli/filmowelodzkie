@@ -2,7 +2,8 @@
 title: C.K. Dezerterzy
 rez: Majewski Janusz
 rok: 1986
-gat: gatunek
+gatunki: 
+  - gatunek: gatunek
 lokacje:
   - lokacja: Zgierz
     link: zgierz

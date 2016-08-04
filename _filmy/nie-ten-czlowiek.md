@@ -2,7 +2,8 @@
 title: Nie ten człowiek
 rez: Wendorff Paweł
 rok: 2009
-gat: gatunek
+gatunki: 
+  - gatunek: gatunek
 lokacje:
   - lokacja: Łódź – Muzeum Kinematografii
     link: lodz-muzeum-kinematografii

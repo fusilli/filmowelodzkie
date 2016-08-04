@@ -2,7 +2,8 @@
 title: Serce, serduszko
 rez: Kolski Jan Jakub
 rok: 2014
-gat: gatunek
+gatunki: 
+  - gatunek: gatunek
 lokacje:
   - lokacja: Zgierz
     link: zgierz

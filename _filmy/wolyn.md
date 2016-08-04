@@ -2,7 +2,8 @@
 title: Wołyń
 rez: Smarzowski Wojciech
 rok: 2016
-gat: gatunek
+gatunki: 
+  - gatunek: gatunek
 lokacje:
   - lokacja: Skierniewice
     link: skierniewice

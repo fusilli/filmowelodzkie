@@ -5,6 +5,8 @@ layout: default
 <div class="film-meta">
 	<p><strong>Reżyseria:</strong> {{ page.rez }}</p>
 	<p><strong>Rok:</strong> {{ page.rok }}</p>
+	{% assign posortowane_gatunki = page.gatunki | sort: 'gatunek' %}
+	<p class="gatunek"><strong>Gatunek:</strong> {% for gatunek in posortowane_gatunki %}<span class="gat">{{ gatunek.gatunek }}</span>{% unless forloop.last == true %}, {% endunless %}{% endfor %}</p>
 	{% if page.lokacje %}<p><strong>Lokacje:</strong> {% for lokacja in page.lokacje %}<a href="/lokacje/{{ lokacja.link }}">{{ lokacja.lokacja }}</a>{% unless forloop.last %}, {% endunless %}{% endfor %}</p>{% endif %}
 </div>
 {% unless page.fot %}

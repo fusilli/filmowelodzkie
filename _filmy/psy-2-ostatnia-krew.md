@@ -2,7 +2,8 @@
 title: Psy 2. Ostatnia krew
 rez: Pasikowski Władysław
 rok: 1994
-gat: gatunek
+gatunki: 
+  - gatunek: gatunek
 lokacje:
   - lokacja: Sulejów
     link: sulejow

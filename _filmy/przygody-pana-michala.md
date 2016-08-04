@@ -2,7 +2,8 @@
 title: Przygody pana Michała
 rez: Komorowski Paweł
 rok: 1969
-gat: gatunek
+gatunki: 
+  - gatunek: gatunek
 lokacje:
   - lokacja: Inowłódz
     link: inowlodz

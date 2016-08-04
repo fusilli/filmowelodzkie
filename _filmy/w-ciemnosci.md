@@ -2,7 +2,8 @@
 title: W ciemności
 rez: Holland Agnieszka
 rok: 2011
-gat: gatunek
+gatunki: 
+  - gatunek: gatunek
 lokacje:
   - lokacja: Piotrków Trybunalski
     link: piotrkow-trybunalski

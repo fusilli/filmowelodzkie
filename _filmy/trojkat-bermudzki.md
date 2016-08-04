@@ -2,7 +2,8 @@
 title: Trójkąt bermudzki
 rez: Wójcik Wojciech
 rok: 1987
-gat: gatunek
+gatunki: 
+  - gatunek: gatunek
 lokacje:
   - lokacja: Sulejów
     link: sulejow

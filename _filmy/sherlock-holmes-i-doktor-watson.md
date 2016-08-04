@@ -2,7 +2,8 @@
 title: Sherlock Holmes i Doktor Watson
 rez: Reynolds Sheldon
 rok: 1980
-gat: gatunek
+gatunki: 
+  - gatunek: gatunek
 lokacje:
   - lokacja: Nieborów
     link: nieborow

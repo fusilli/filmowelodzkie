@@ -2,7 +2,8 @@
 title: 1920 Bitwa Warszawska
 rez: Hoffman Jerzy
 rok: 2011
-gat: gatunek
+gatunki: 
+  - gatunek: gatunek
 lokacje:
   - lokacja: Piotrków Trybunalski
     link: piotrkow-trybunalski

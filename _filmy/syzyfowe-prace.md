@@ -2,7 +2,8 @@
 title: Syzyfowe prace
 rez: Komorowski Paweł
 rok: 1998
-gat: gatunek
+gatunki: 
+  - gatunek: gatunek
 lokacje:
   - lokacja: Piotrków Trybunalski
     link: piotrkow-trybunalski

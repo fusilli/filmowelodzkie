@@ -2,7 +2,8 @@
 title: Ostatnie piętro
 rez: Król Tadeusz
 rok: 2012
-gat: gatunek
+gatunki: 
+  - gatunek: gatunek
 lokacje:
   - lokacja: Skierniewice
     link: skierniewice

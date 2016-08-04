@@ -2,7 +2,8 @@
 title: Janka
 rez: Łęski Janusz
 rok: 1989
-gat: gatunek
+gatunki: 
+  - gatunek: gatunek
 lokacje:
   - lokacja: Sulejów
     link: sulejow

@@ -2,7 +2,10 @@
 title: Czas honoru
 rez: Rosa Michał
 rok: 2010
-gat: fabularny, historyczny, wojenny
+gatunki:
+  - gatunek: fabularny
+  - gatunek: historyczny
+  - gatunek: wojenny
 lokacje:
   - lokacja: Skierniewice
     link: skierniewice

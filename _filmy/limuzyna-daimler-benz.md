@@ -2,7 +2,8 @@
 title: Limuzyna Daimler-Benz
 rez: Bajon Filip
 rok: 1981
-gat: gatunek
+gatunki: 
+  - gatunek: gatunek
 lokacje:
   - lokacja: Zgierz
     link: zgierz

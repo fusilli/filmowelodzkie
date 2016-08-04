@@ -2,7 +2,8 @@
 title: Frankenstein
 rez: Wickes David
 rok: 1993
-gat: gatunek
+gatunki: 
+  - gatunek: gatunek
 lokacje:
   - lokacja: Nieborów
     link: nieborow

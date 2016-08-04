@@ -2,7 +2,8 @@
 title: Bolesław Śmiały
 rez: Lesiewicz Witold
 rok: 1971
-gat: gatunek
+gatunki: 
+  - gatunek: gatunek
 lokacje:
   - lokacja: Inowłódz
     link: inowlodz

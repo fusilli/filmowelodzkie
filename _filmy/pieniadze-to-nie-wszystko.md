@@ -2,7 +2,8 @@
 title: Pieniądze to nie wszystko
 rez: Machulski Juliusz
 rok: 2001
-gat: gatunek
+gatunki: 
+  - gatunek: gatunek
 lokacje:
   - lokacja: Studzianna–Poświętne
     link: studzianna-poswietne

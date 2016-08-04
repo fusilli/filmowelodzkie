@@ -2,7 +2,8 @@
 title: Przedwiośnie
 rez: Bajon Filip
 rok: 2001
-gat: gatunek
+gatunki: 
+  - gatunek: gatunek
 lokacje:
   - lokacja: Piotrków Trybunalski
     link: piotrkow-trybunalski

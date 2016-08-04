@@ -2,7 +2,8 @@
 title: Doktor Ewa
 rez: Kluba Henryk
 rok: 1970
-gat: gatunek
+gatunki: 
+  - gatunek: gatunek
 lokacje:
   - lokacja: Piotrków Trybunalski
     link: piotrkow-trybunalski

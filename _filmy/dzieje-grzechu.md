@@ -2,7 +2,8 @@
 title: Dzieje grzechu
 rez: Borowczyk Walerian
 rok: 1975
-gat: gatunek
+gatunki: 
+  - gatunek: gatunek
 lokacje:
   - lokacja: Skierniewice
     link: skierniewice

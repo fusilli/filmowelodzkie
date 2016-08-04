@@ -2,7 +2,8 @@
 title: Życie na gorąco
 rez: Konic Andrzej
 rok: 1978
-gat: gatunek
+gatunki: 
+  - gatunek: gatunek
 lokacje:
   - lokacja: Łódź – Muzeum Kinematografii
     link: lodz-muzeum-kinematografii

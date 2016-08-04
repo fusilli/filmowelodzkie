@@ -2,7 +2,8 @@
 title: Krzyżacy
 rez: Ford Aleksander
 rok: 1960
-gat: gatunek
+gatunki: 
+  - gatunek: gatunek
 lokacje:
   - lokacja: Łódź – Wytwórnia Filmów Fabularnych
     link: lodz-wytwornia-filmow-fabularnych

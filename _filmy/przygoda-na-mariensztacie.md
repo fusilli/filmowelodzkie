@@ -2,7 +2,8 @@
 title: Przygoda na Mariensztacie
 rez: Buczkowski Leonard
 rok: 1953
-gat: gatunek
+gatunki: 
+  - gatunek: gatunek
 lokacje:
   - lokacja: Łódź – Wytwórnia Filmów Fabularnych
     link: lodz-wytwornia-filmow-fabularnych

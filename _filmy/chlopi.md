@@ -2,7 +2,8 @@
 title: Chłopi
 rez: Rybkowski Jan
 rok: 1972
-gat: gatunek
+gatunki: 
+  - gatunek: gatunek
 lokacje:
   - lokacja: Lipce Reymontowskie
     link: lipce-reymontowskie

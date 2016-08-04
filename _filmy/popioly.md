@@ -2,7 +2,8 @@
 title: Popioły
 rez: Wajda Andrzej
 rok: 1965
-gat: gatunek
+gatunki: 
+  - gatunek: gatunek
 lokacje:
   - lokacja: Inowłódz
     link: inowlodz

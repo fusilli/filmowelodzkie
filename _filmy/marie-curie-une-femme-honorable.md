@@ -2,7 +2,8 @@
 title: Marie Curie. Une femme honorable
 rez: Boisrond Michel
 rok: 1990
-gat: gatunek
+gatunki: 
+  - gatunek: gatunek
 lokacje:
   - lokacja: Nieborów
     link: nieborow

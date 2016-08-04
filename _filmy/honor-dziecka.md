@@ -2,7 +2,8 @@
 title: Honor dziecka
 rez: Erol Feridun
 rok: 1976
-gat: gatunek
+gatunki: 
+  - gatunek: gatunek
 lokacje:
   - lokacja: Studzianna–Poświętne
     link: studzianna-poswietne

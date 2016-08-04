@@ -2,7 +2,8 @@
 title: Wielka miłość Balzaka
 rez: Solarz Wojciech
 rok: 1973
-gat: gatunek
+gatunki: 
+  - gatunek: gatunek
 lokacje:
   - lokacja: Nieborów
     link: nieborow

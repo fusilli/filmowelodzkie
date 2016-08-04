@@ -14,10 +14,11 @@ layout: default
 					<img class="svg" src="/img/klisza.svg">
 				</div>
 				<h3 class="tytul"><strong>{{ film.title }}</strong></h3>
-				<p class="rezyser">{{ film.rez }}</p>
-				<p class="rok">{{ film.rok }} r.</p>
-				<p class="gatunek">{{ film.gat }}</p>
-			</a>
+				</a>
+				<p class="rezyser przycisk">{{ film.rez }}</p>
+				<p class="rok przycisk">{{ film.rok }} r.</p>
+				{% assign posortowane_gatunki = film.gatunki | sort: 'gatunek' %}
+				<p class="gatunek">{% for gatunek in posortowane_gatunki %}<span class="przycisk">{{ gatunek.gatunek }}</span>{% unless forloop.last == true %}, {% endunless %}{% endfor %}</p>
 		</li>
 	{% endfor %}
 	</ul>

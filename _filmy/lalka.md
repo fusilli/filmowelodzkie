@@ -2,7 +2,8 @@
 title: Lalka
 rez: Ber Ryszard
 rok: 1977
-gat: gatunek
+gatunki: 
+  - gatunek: gatunek
 lokacje:
   - lokacja: Nieborów
     link: nieborow

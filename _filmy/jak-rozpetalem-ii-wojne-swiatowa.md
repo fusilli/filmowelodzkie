@@ -2,7 +2,8 @@
 title: Jak rozpętałem II wojnę światową
 rez: Chmielewski Tadeusz
 rok: 1969
-gat: gatunek
+gatunki: 
+  - gatunek: gatunek
 lokacje:
   - lokacja: Studzianna–Poświętne
     link: studzianna-poswietne

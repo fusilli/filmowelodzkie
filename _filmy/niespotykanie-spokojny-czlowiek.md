@@ -2,7 +2,8 @@
 title: Niespotykanie spokojny człowiek
 rez: Bareja Stanisław
 rok: 1975
-gat: gatunek
+gatunki: 
+  - gatunek: gatunek
 lokacje:
   - lokacja: Zgierz
     link: zgierz
