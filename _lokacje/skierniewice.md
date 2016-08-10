@@ -46,7 +46,7 @@ Po drugiej stronie torów kolejowych znajduje się dawna parowozownia, w której
 
 Filmowy akcent posiada również sąsiadujący z dworcem dawny zespół pałacowo-parkowy arcybiskupów gnieźnieńskich. Wykorzystano go w filmie [*Dzieje grzechu*](/filmy/dzieje-grzechu/). To tu hrabia Bodzanta urządził przytułek dla upadłych kobiet, gdzie trafia główna bohaterka Ewa Pobratyńska (Grażyna Długołęcka). Z kolei przy pl. Św. Floriana (podwórze pod numerem 15) realizowano zdjęcia do serialu [*Chłopi*](/filmy/chlopi/). Stworzono tu przestrzeń więzienia, gdzie przetrzymywani byli chłopi aresztowani za napaść na robotników wycinających las. To samo miejsce wykorzystano również w walijskim filmie [*Rancid Aluminium*](/filmy/rancid-aluminium/) – stało się wówczas placem targowym w prowincjonalnym rosyjskim mieście. 
 
-Skierniewice mocno zaznaczyły swój udział w filmie [*Ostatnie piętro*](/filmy/ostatnie-pietro/). Ważnym miejscem dla akcji stał się zalew Zadębie ze stojącym tam na postumencie samolotem MIG-15 i z widocznym w tle wyburzonymi już kasynem i wieżą ciśnień. Mieszkanie na blokowisku, gdzie mieszka rodzina głównego bohatera, znajduje się na osiedlu Widok. W kadrach uwiecznione zostały również dworzec kolejowy, stojąca obok zabytkowa wieża ciśnień, a także skierniewicki Rynek.
+Skierniewice mocno zaznaczyły swój udział w filmie [*Ostatnie piętro*](/filmy/ostatnie-pietro/). Ważnym miejscem dla akcji stał się zalew Zadębie ze stojącym tam na postumencie samolotem MIG-15 i z widocznym w tle wyburzonymi już kasynem i wieżą ciśnień. Mieszkanie na blokowisku, gdzie żyje rodzina głównego bohatera, znajduje się na osiedlu Widok. W kadrach uwiecznione zostały również dworzec kolejowy, stojąca obok zabytkowa wieża ciśnień, a także skierniewicki Rynek.
 
 ## Tytuły filmów
 
