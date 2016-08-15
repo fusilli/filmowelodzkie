@@ -8,7 +8,7 @@ lokacje:
   - lokacja: Zgierz
     link: zgierz
 link: 300-mil-do-nieba
-fot: [![300 mil do nieba]foto/kadry/300 mil do nieba.jpg]
+fot: [![300 mil do nieba](/foto/kadry/300 mil do nieba.jpg)
 ---
 Film opowiada historię ucieczki dwóch chłopców z Polski do Danii. Pokonują granicę, ukryci pod naczepą tira. Historia oparta jest na autentycznych wydarzeniach z lat 80., gdy dwóch nastolatków w ten sposób uciekło do Szwecji. Film był kinowym debiutem Macieja Dejczera w roli reżysera. Więcej o filmie tutaj: http://www.filmpolski.pl/fp/index.php?film=123106
 
