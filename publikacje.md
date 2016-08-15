@@ -7,7 +7,7 @@ Rok później ukazał się książkowy [*Przewodnik po filmowej Łodzi*](http://
 
 [![Przewodnik po filmowej Łodzi](/img/przewodnik-po-filmowej-lodzi.jpg)](http://regiocentrum.pl/publikacje/ksiazki/przewodnik-po-filmowej-lodzi/)
 
-Kontynuując te działania w 2014 r. opublikowaliśmy [*Stawkowy przewodnik filmowy*](http://regiocentrum.pl/publikacje/ksiazki/stawkowy-przewodnik-filmowy/) poświęcony plenerom Stawki większej niż życie.
+Kontynuując te działania w 2014 r. opublikowaliśmy [*Stawkowy przewodnik filmowy*](http://regiocentrum.pl/publikacje/ksiazki/stawkowy-przewodnik-filmowy/) poświęcony plenerom [*Stawki większej niż życie*].
 
 [![Stawkowy przewodnik filmowy](/img/stawkowy-przewodnik-filmowy.jpg)](http://regiocentrum.pl/publikacje/ksiazki/stawkowy-przewodnik-filmowy/)
 
