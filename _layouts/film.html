@@ -9,11 +9,4 @@ layout: default
 	<p class="gatunek"><strong>Gatunek:</strong> {% for gatunek in posortowane_gatunki %}<span class="gat">{{ gatunek.gatunek }}</span>{% unless forloop.last == true %}, {% endunless %}{% endfor %}</p>
 	{% if page.lokacje %}<p><strong>Lokacje:</strong> {% for lokacja in page.lokacje %}<a href="/lokacje/{{ lokacja.link }}">{{ lokacja.lokacja }}</a>{% unless forloop.last %}, {% endunless %}{% endfor %}</p>{% endif %}
 </div>
-{% unless page.fot %}
-<div class="klatka">
-	<img src="/img/klisza.svg" width="600">
-	<img src="/filmy/{{ page.link }}.jpg" alt="{{ page.title }}" width="600" height="400">
-	<img src="/img/klisza.svg" width="600">
-</div>
-{% endunless %}
 {{ content }}
