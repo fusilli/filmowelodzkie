@@ -8,7 +8,7 @@ lokacje:
   - lokacja: Nieborów
     link: nieborow
 link: akademia-pana-kleksa
-fot: [!Akademia Pana Kleksa]()
+fot: [!Akademia Pana Kleksa](/filmowelodzkie/foto/kadry/Akademia pana Kleksa.jpg)
 ---
 Dla nie wtajemniczonych, jest to film polsko-radziecki nakręcony na podstawie książki Jana Brzechwy o tym samym tytule. Film składa się z dwóch części: „Przygoda księcia Mateusza” oraz „Tajemnica golarza Filipa”.  Jest to opowieść o przygodach dziesięcioletniego Adasia Niezgódki, który trafia do tajemniczej Akademii Ambrożego Kleksa. Uczą się tutaj chłopcy, których imię zaczyna się na literę „A”, a sama szkoła prowadzona jest w sposób nietypowy i odbiegający od nauki w zwyczajnej szkole. Całość filmu toczy się w bajkowej scenerii, klimat filmu budują oryginalne dekoracje, a także niezapomniane piosenki, jak: „Witajcie w naszej bajce” czy wiersze śpiewane Brzechwy oraz animacja do piosenki „Dzik jest dziki”.
 Ciekawostką jest, że pierwotnie rolę Ambrozego Kleksa miał zagrać Jan Kobuszewski. Ale czym by był Pan Kleks, bez charakterystycznego głosu Piotra Fronczewskiego. Aktor wspominał potem ile wysiłku kosztowało go codzienne poddawanie się charakteryzacji do postaci w którą się wcielał. Miał dolepianą sztuczną brodę i włosy, co było szczególnie uciążliwe podczas upałów.
