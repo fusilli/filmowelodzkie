@@ -1,7 +1,33 @@
-- foto: o-projekcie.png
-  tytul: O projekcie
-  tekst: Nowy szlak turystyczny na terenie województwa łódzkiego, który nawiązuje do bogatej tradycji filmowej regionu…
-  link: /o-projekcie/
-- foto: lokacje.png
-  tytul: Lokacje
-  link: /lokacje/
+- foto: inowlodz.jpg
+  tytul: Inowłódz
+  link: /lokacje/inowlodz/
+- foto: lipce-reymontowskie.jpg
+  tytul: Lipce Reymontowskie
+  link: /lokacje/lipce-reymontowskie/
+- foto: lodz-mk.jpg
+  tytul: Łódź – Muzeum Kinematografii
+  link: /lokacje/lodz-muzeum-kinematografii/
+- foto: lodz-wff.jpg
+  tytul: Łódź – Wytwórnia Filmów Fabularnych
+  link: /lokacje/lodz-wytwornia-filmow-fabularnych/
+- foto: nieborow.jpg
+  tytul: Nieborów
+  link: /lokacje/nieborow/
+- foto: piotrkow-trybunalski.jpg
+  tytul: Piotrków Trybunalski
+  link: /lokacje/piotrkow-trybunalski/
+- foto: poswietne.jpg
+  tytul: Poświętne
+  link: /lokacje/studzianna-poswietne//
+- foto: skierniewice.jpg
+  tytul: Skierniewice
+  link: /lokacje/skierniewice/
+- foto: sulejow.jpg
+  tytul: Sulejów
+  link: /lokacje/sulejow/
+- foto: wolborz.jpg
+  tytul: Wolbórz
+  link: /lokacje/wolborz/
+- foto: zgierz.jpg
+  tytul: Zgierz
+  link: /lokacje/zgierz/
