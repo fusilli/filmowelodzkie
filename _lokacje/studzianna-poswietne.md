@@ -53,9 +53,9 @@ Również inne miejsca w gminie były wykorzystywane przez filmowców. W malowni
 - [*Doktor Ewa*](/filmy/doktor-ewa/), reż. Henryk Kluba (1970)
 - [*Hubal*](/filmy/hubal/), reż. Bohdan Poręba (1973)
 - [*Honor dziecka*](/filmy/honor-dziecka/), reż. Feridun Erol (1976)
-- [*Pieniądze to nie wszystko*](/filmy/pieniadze-to-nie-wszystko/), reż. Juliusz Machulski, 2001
+- [*Pieniądze to nie wszystko*](/filmy/pieniadze-to-nie-wszystko/), reż. Juliusz Machulski, (2001)
 - [*Katyń*](/filmy/katyn/), reż. Andrzej Wajda (2007)
-- [*1920 Bitwa warszawska*](/filmy/1920-bitwa-warszawska/), reż. Jerzy Hoffman, 2011
+- [*1920 Bitwa warszawska*](/filmy/1920-bitwa-warszawska/), reż. Jerzy Hoffman, (2011)
 
 ## Informacja krajoznawcza
 
