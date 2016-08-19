@@ -10,6 +10,5 @@ lokacje:
   - lokacja: Sulejów
     link: sulejow
 link: goraczka
-fot: brak
 ---
 Opis wkrótce…
