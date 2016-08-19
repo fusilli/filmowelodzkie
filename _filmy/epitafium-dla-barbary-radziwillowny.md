@@ -8,6 +8,5 @@ lokacje:
   - lokacja: Inowłódz
     link: inowlodz
 link: epitafium-dla-barbary-radziwillowny
-fot: brak
 ---
 Opis wkrótce…
