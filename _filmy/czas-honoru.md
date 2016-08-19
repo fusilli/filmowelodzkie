@@ -17,4 +17,4 @@ Siedmiosezonowy serial, którego tłem akcji są losy żołnierzy Armii Krajowe
 
 ### Miejsce kręcenia serialu
 
-Ciekawym plenerem dla serialu były zdjęcia kręcone w parowozowni w Skierniewicach „Polskiego Stowarzyszenia Miłośników Koleji”. Tutaj kręcono sceny do 31 odcinka „Transport do Auschwitz”. Więcej na: http://www.psmk.org.pl/czas-honoru-w-parowozowni-2/
+Plenerem z województwa łódzkiego, który wykorzystano przy realizacji serialu jest parowozownia w Skierniewicach „Polskiego Stowarzyszenia Miłośników Kolei”. Tutaj kręcono sceny do 31 odcinka „Transport do Auschwitz”. Więcej na: http://www.psmk.org.pl/czas-honoru-w-parowozowni-2/
