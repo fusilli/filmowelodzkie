@@ -13,4 +13,4 @@ Serial obyczajowy, przedstawiający historię wyjątkowo prostolinijnego i poczc
 Część "podziemna" zdjęć do filmu - czyli ujęcia w kanałach - powstała na terenie Łodzi, w autentycznych kanałach. W związku z tym powstała nawet anegdota, jakoby w filmie wykorzystano najdłuższy kanał na świecie - bohater wchodzi pod ziemię w Łodzi, a wychodzi przy Pałacu Kultury i Nauki w Warszawie.
 Inny plener to dworzec kolejowy i Stare Miasto w Piotrkowie (plener jest łatwy do rozpoznania, bo zgodnie z fabułą Jan wraz z matką jadą właśnie do Piotrkowa). Tutaj w odcinku pierwszym Jan ma poznać kandydatkę na żonę, Lusię (Hanna Stankówna). 
 
-Więcej o serialu: [*http://www.filmpolski.pl/fp/index.php?film=123578*]http://www.filmpolski.pl/fp/index.php?film=123578
+Więcej o [*serialu Jan Serce*](http://www.filmpolski.pl/fp/index.php?film=123578)
