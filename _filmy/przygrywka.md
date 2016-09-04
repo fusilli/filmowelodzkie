@@ -8,6 +8,5 @@ lokacje:
   - lokacja: Sulejów
     link: sulejow
 link: przygrywka
-fot: brak
 ---
 Opis wkrótce…
