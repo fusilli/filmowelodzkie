@@ -3,7 +3,7 @@ layout: default
 ---
 <div id="filmy">
 	<input class="search" placeholder="Szukaj…" />
-	<div class="sortuj">Sortuj&nbsp;wg:&nbsp;<button class="sort" data-sort="tytul">Tytuł</button> <button class="sort" data-sort="rezyser">Reżyser</button> <button class="sort" data-sort="rok">Rok</button> <button class="sort" data-sort="gatunek">Gatunek</button></div>
+	<div class="sortuj">Sortuj&nbsp;wg:&nbsp;<button class="sort" data-sort="tytul">Tytuł</button> <button class="sort" data-sort="rezyser">Reżyser</button> <button class="sort" data-sort="rok">Rok</button></div>
 	<ul class="list">
 	{% for film in site.filmy %}
 		<li class="film">
@@ -17,8 +17,6 @@ layout: default
 				</a>
 				<p class="rezyser przycisk">{{ film.rez }}</p>
 				<p class="rok przycisk">{{ film.rok }} r.</p>
-				{% assign posortowane_gatunki = film.gatunki | sort: 'gatunek' %}
-				<p class="gatunek">{% for gatunek in posortowane_gatunki %}<span class="przycisk">{{ gatunek.gatunek }}</span>{% unless forloop.last == true %}, {% endunless %}{% endfor %}</p>
 		</li>
 	{% endfor %}
 	</ul>
