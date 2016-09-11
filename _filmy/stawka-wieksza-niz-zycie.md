@@ -12,7 +12,6 @@ lokacje:
   - lokacja: Zgierz
     link: zgierz
 link: stawka-wieksza-niz-zycie
-fot: brak
 ---
 Serial o przygodach Hansa Klossa (Stanisław Mikulski) to obok *Czterech pancernych i psa* najbardziej znany polski serial. Serial ponadczasowy, o czym świadczą kolejne emisje w telewizji, a także dwie wydane książki poświęcone serialowi - *Stawka większa niż życie. Serial wszech czasów* Bogdana Bernackiego oraz [*Stawkowy przewodnik filmowy*](http://regiocentrum.pl/publikacje/ksiazki/stawkowy-przewodnik-filmowy/) - praca zbiorowa pod redakcją Bogdana Bernackiego. Ta druga szczegółowo przedstawia wszystki plenery serialu - z Łodzi, Wrocławia, Olsztyna, Gdańska, Gdyni, Sopotu, Warszawy, Krakowa, Płocka, Pieskowej Skały, Pabianic i Zgierza. Jak widać również województwo łódzkie i miejscowe plenery zaznaczyły swoją obecność jako tło przygód agenta J-23.
 Łódzkich plenerów w serialu było najwięcej - około 40. Najbardziej znane to pałac Izraela Poznańskiego przy ul. Ogrodowej 15 (obecnie Muzeum Miasta Łodzi) - klatka schodowa stała się korytarzami berlińskiej siedziby Abwehry, gdzie trafia Kloss w odcinku *Zdrada*; kawiarnia Honoratka z ul. Moniuszki 2 to warszawska kawiarnia Mocca z odcinka *Ostatnia szansa* - tu spotyka się Anna (Ewa Wiśniewska) z Ruppertem (Ignacy Gogolewski), z kolei pałac Karola Scheiblera przy pl. Zwycięstwa 1 przeobraził się w stambulski klub nocny Cafe Rose w odcinku *Cafe Rose*.
