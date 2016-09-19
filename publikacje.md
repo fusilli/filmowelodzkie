@@ -20,3 +20,5 @@ W 2016 r. w ramach projektu „Szlak filmowy województwa łódzkiego” [Filmow
 [![Szlak filmowy województwa łódzkiego](/img/szlak-filmowy-wojewodztwa-lodzkiego.jpg)](http://regiocentrum.pl/pobierz/szlak-filmowy-wojewodztwa-lodzkiego.pdf)
 
 …oraz [eksperckie opracowanie dotyczące potencjału filmowego województwa łódzkiego na tle innych regionów Polski „Potencjał turystyczny dziedzictwa filmowego w województwie łódzkim”](http://regiocentrum.pl/pobierz/potencjal-turystyczny-dziedzictwa-filmowego-w-woj-%20lodzkim_m-kronenberg-regio-2016.pdf).
+
+[![Potencjał turystyczny dziedzictwa filmowego w województwie łódzkim](/img/potencjal-turystyczny-dziedzictwa-filmowego-w-wojewodztwie-lodzkim.jpg)](http://regiocentrum.pl/pobierz/potencjal-turystyczny-dziedzictwa-filmowego-w-woj-%20lodzkim_m-kronenberg-regio-2016.pdf)
