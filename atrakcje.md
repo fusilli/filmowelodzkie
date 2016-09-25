@@ -8,7 +8,9 @@ title: Filmowe atrakcje
 
 Jest na pewno najbardziej znaną i rozpoznawalną ulicą Łodzi. To tu znajduje się sławna Aleja Gwiazd zlokalizowana między ul. 6 Sierpnia a pasażem Rubinsteina. Inicjatorami utworzenia alei wzorowanej na hollywoodzkiej Walk of Fame byli Jan Machulski i Henryk Kluba. Pierwsza gwiazda (poświęcona Andrzejowi Sewerynowi) została wmurowana w 1998 roku, dziś jest ich już ponad 60. Po stronie parzystej (wschodniej) obok Grand Hotelu znajdują się gwiazdy znanych reżyserów, operatorów i kompozytorów. Po przeciwległej nieparzystej stronie znaleźć można nazwiska aktorów. 
 
-## Muzeum Bajki przy Fundacji Filmowej SE-MA-FOR
+![Muzeum Animacji](/foto/plenery/muzeum-animacji.jpg)
+
+## Se-Ma-For Muzeum Animacji przy Fundacji Filmowej SE-MA-FOR
 
 ul. Targowa 1/3 B.24 (wejście od ul. Tuwima 54), Łódź
 
