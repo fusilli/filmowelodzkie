@@ -36,12 +36,16 @@ Jest jedną z najstarszych uczelni filmowych na świecie, jej działalność roz
 Początkowo Szkoła zajmowała jeden budynek - dawną willę Oskara Kona. W jednym budynku mieściły się sale wykładowe, pomieszczenia administracyjne, a także mieszkalne dla pierwszych studentów. Dziś uczelnia zajmuje cały kampus, a w dawnej wili funkcjonuje Rektorat. Odwiedzając to miejsce trzeba koniecznie obejrzeć słynne schody, na których wg legendy Szkoły siadywali studenci dyskutując o filmach. Najsłynniejszych z nich, m.in. Andrzeja Wajdę i Romana Polańskiego uwieczniono specjalnymi tabliczkami. Na piętrze, w dawnej sali balowej, działa dziś szkolna sala kinowa, gdzie można obejrzeć najlepsze etiudy studentóww. 
 Więcej na temat [*Szkoły*](https://www.filmschool.lodz.pl/).
 
+![Wytwórnia Filmów Oświatowych](/foto/plenery/lodz-oswiatowka.jpg)
+
 ## Wytwórnia Filmów Oświatowych
 
 ul. Kilińskiego 210, Łódź
 
 Historia „Oświatówki” zaczyna się w roku 1949 roku, została wówczas wyodrębniona z Wytwórni Filmów Fabularnych. Obecny dorobek WHO to 5 tysięcy filmów, głównie oświatowych i dokumentalnych. Tu rozpoczynali karierę znani twórcy polskiego kina, jak Wojciech Jerzy Has, Janusz Nasfeter, Krzysztof Zanussi, Zbigniew Rybczyński, Krzysztof Ptak, Jerzy Zieliński, Juliusz Machulski, Jacek Bławut, Marek Koterski i Maciej Drygas. Tu także pracował znany fotograf Eugeniusz Haneman (autor zdjeć dokumentalnych z Powstania Warszawskiego). 
 Więcej na temat [*Wytwórni*](http://www.wfo.com.pl/).
+
+![Hilton Łódź](/foto/plenery/lodz-hilton.jpg)
 
 ## Double Tree by Hilton Łódź
 
@@ -50,6 +54,8 @@ ul. Łąkowa 29, Łódź
 Inspirację do budowy hotelu stanowił filmowy charakter miejsca. Pod tym samym adresem po II wojnie światowej powstała pierwsza wytwórnia filmowa w kraju, przez kilkadziesiąt lat pozostająca największym zapleczem produkcyjnym polskiej kinematografii - Wytwórnia Filmów Fabularnych w Łodzi. Dziś w tym miejscy znajduje się Wytwórnia – centrum rozrywkowo-kulturalne dysponujące jednymi z największych hal koncertowych w mieście, dawnymi halami zdjęciowymi WFF. Działają tu również inne instytuacje i firmy, nawiązujące swoją działalnością do filmowej tradycji miejsca (TOYA, TOYA Studios, Opus Film, Archiwum Filmoteki Narodowej).
 Więcej na temat [*hotelu*](http://www.doubletreelodz.pl/).
 
+![Stare Kino Łódź](/foto/plenery/lodz-stare-kino.jpg)
+
 ## Hotel Stare Kino
 
 ul. Piotrkowska 120, Łódź
@@ -57,6 +63,8 @@ ul. Piotrkowska 120, Łódź
 Hotel Stare Kino mieści się w oficynie wielkomiejskiej kamienicy. Nazwa, a także wystrój nawiązuje do historii tego miejsca. To właśnie pod tym adresem w 1899 roku bracia Krzemińscy otworzyli pierwsze stała na ziemiach polskich kino „Teatr Żywych Fotografii”.
 Miejsce zobowiązuje, dlatego pokoje dla gości swoją tematyką także nawiązują do tradycji filmowej. Tutaj nie ma dwóch takich samych pokoi, każdy ma swój niepowtarzalny klimat i urok. W pierwszej klatce schodowej znajdują się 22 pokoje nawiązujące do ważnych polskich filmów, co istotne wszystkich przynajmniej częściowo realizowanych w Łodzi. Druga klatka schodowa poświęcona jest arcydziełom kina światowego - 20 apartamentów podzielonych jest na piętra romansu, komedii, sensacji i klasyki. Hotelowa restauracja również posiada filmowe akcenty, natomiast w piwnicy działa prawdziwe kino. O jego wyjątkowości świadczy fakt, że filmy wyświetlane są przy użyciu zabytkowych projektorów z lat 70. XX w., a dzięki temu że znajdują się one nie w wydzielonej kabinie projekcyjnej a na końcu sali kinowej, widzowie cały czas słyszą wyjątkowy terkot maszyny...
 Więcej na temat [*hotelu*](http://www.cinemahotel.pl/).
+
+![Honoratka Łódź](/foto/plenery/lodz-honoratka.jpg)
 
 ## Dawna kawiarnia „Honoratka” 
 
