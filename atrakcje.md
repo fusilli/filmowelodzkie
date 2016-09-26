@@ -71,3 +71,20 @@ Więcej na temat [*hotelu*](http://www.cinemahotel.pl/).
 ul. Moniuszki 2, Łódź
 
 Nieistniejąca już dzisiaj kawiarnia „Honoratka” była miejscem legendarnym i kultowym. Lokal działający w latach 1948-198 był miejscem spotkań łódzkiej bohemy, przede wszystkim ludzi związanych ze Szkołą Filmową i Wytwórnią Filmów Fabularnych. Było to miejsce, w którym nie wypadało nie bywać. Sama „Honoratka” pojawiła się w kilku filmach, jak „Kalosze szczęścia”, czy „Ich dzień powszedni”. Wnętrza "zagrały" w serialu *Stawka większa niż życie*, w odcinku *Ostatnia szansa*, gdzie lokal przeobraził się w warszawską kawiarnię Café Mocca. Dzisiaj na ścianie budynku mieści się tablica upamiętniająca historię tego miejsca. Inicjatorem zawieszenia tablicy był Leopold Rene Nowak - krakowski filmowiec i dziennikarz, twórca filmu dokumentalnego o legendarnej kawiarni *Czarodzieje Honoratki*.
+
+![Bogusławice Stado Ogierów](/foto/plenery/boguslawice-stado.jpg)
+
+## Stado Ogierów w Bogusławicach
+
+Bogusławice 58, Wolbórz
+
+Stado Ogierów w Bogusławicach sięga swoją historią do 1915 r., gdy pierwsze hodowlane konie pojawiły się na tym terenie (początkowo na zlecenie armii austriackiej). Państwowe Stado Ogierów rozpoczęło działalność w 1921 r., od kilku lat jest to obiekt prywatny. W zabytkowych zabudowaniach stadniny przebywa obecnie kilkadziesiąt ogierów. Organizowane są tutaj liczne pokazy i zawody sportowe. Obiekt jest dostępny dla zwiedzających w grupach zorganizowanych po uprzednim zgłoszeniu. Miejsce posiada swoją wyjątkową filmową historię - w latach 60. i 70. XX wieku bogusławickie konie "występowały" w większości polskich filmów historycznych. Część ujęć powstawała również w bezpośrednim sąsiedztwie stadniny.
+
+![Warsztat garncarski w Bolimowie](/foto/plenery/bolimow-garncarz.jpg)
+
+## Warsztat garncarski w Bolimowie
+
+Dworska 7, Bolimów
+
+Udokumentowana historia bolimowskich garncarzy sięga początków XIX w. W rodzinie Konopczyńskich tradycja ta to już 6 pokoleń, twórca rodzinnego zakładu  jako garncarz pracował od połowy XIX w. Warsztat jest dostępny dla zwiedzających, na miejscu można nie tylko obejrzeć garncarza przy pracy, ale również spróbować swoich sił w toczeniu na kole, a także zakupić pamiątkowe wyroby z warsztatu. Bolimowska ceramika z zakładu Konopczyńskich wielokrotnie wykorzystywana była w filmach, m.in. w *Faraonie*, *Panu Tadeuszu*, czy *Ogniem i mieczem*.
+
