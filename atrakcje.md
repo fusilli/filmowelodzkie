@@ -56,7 +56,7 @@ Więcej na temat [*hotelu*](http://www.doubletreelodz.pl/).
 
 ![Stare Kino Łódź](/foto/plenery/lodz-stare-kino.jpg)
 
-## Hotel Stare Kino
+## Hotel Stare Kino Łódź
 
 ul. Piotrkowska 120, Łódź
 
@@ -78,7 +78,7 @@ Nieistniejąca już dzisiaj kawiarnia „Honoratka” była miejscem legendarnym
 
 Bogusławice 58, Wolbórz
 
-Stado Ogierów w Bogusławicach sięga swoją historią do 1915 r., gdy pierwsze hodowlane konie pojawiły się na tym terenie (początkowo na zlecenie armii austriackiej). Państwowe Stado Ogierów rozpoczęło działalność w 1921 r., od kilku lat jest to obiekt prywatny. W zabytkowych zabudowaniach stadniny przebywa obecnie kilkadziesiąt ogierów. Organizowane są tutaj liczne pokazy i zawody sportowe. Obiekt jest dostępny dla zwiedzających w grupach zorganizowanych po uprzednim zgłoszeniu. Miejsce posiada swoją wyjątkową filmową historię - w latach 60. i 70. XX wieku bogusławickie konie "występowały" w większości polskich filmów historycznych. Część ujęć powstawała również w bezpośrednim sąsiedztwie stadniny.
+Stado Ogierów w Bogusławicach sięga swoją historią do 1915 r., gdy pierwsze hodowlane konie pojawiły się na tym terenie (początkowo na zlecenie armii austriackiej). Państwowe Stado Ogierów rozpoczęło działalność w 1921 r., od kilku lat jest to obiekt prywatny. W zabytkowych zabudowaniach stadniny przebywa obecnie kilkadziesiąt ogierów. Organizowane są tutaj liczne pokazy i zawody sportowe. Obiekt jest dostępny dla zwiedzających w grupach zorganizowanych po uprzednim zgłoszeniu. Miejsce posiada swoją wyjątkową filmową historię - w latach 60. i 70. XX wieku bogusławickie konie "występowały" w większości polskich filmów historycznych. Część ujęć powstawała również w bezpośrednim sąsiedztwie stadniny. Więcej o obiekcie [*tutaj*](http://www.stadoboguslawice.com.pl/).
 
 ![Warsztat garncarski w Bolimowie](/foto/plenery/bolimow-garncarz.jpg)
 
@@ -86,5 +86,37 @@ Stado Ogierów w Bogusławicach sięga swoją historią do 1915 r., gdy pierwsze
 
 Dworska 7, Bolimów
 
-Udokumentowana historia bolimowskich garncarzy sięga początków XIX w. W rodzinie Konopczyńskich tradycja ta to już 6 pokoleń, twórca rodzinnego zakładu  jako garncarz pracował od połowy XIX w. Warsztat jest dostępny dla zwiedzających, na miejscu można nie tylko obejrzeć garncarza przy pracy, ale również spróbować swoich sił w toczeniu na kole, a także zakupić pamiątkowe wyroby z warsztatu. Bolimowska ceramika z zakładu Konopczyńskich wielokrotnie wykorzystywana była w filmach, m.in. w *Faraonie*, *Panu Tadeuszu*, czy *Ogniem i mieczem*.
+Udokumentowana historia bolimowskich garncarzy sięga początków XIX w. W rodzinie Konopczyńskich tradycja ta to już 6 pokoleń, twórca rodzinnego zakładu  jako garncarz pracował od połowy XIX w. Warsztat jest dostępny dla zwiedzających, na miejscu można nie tylko obejrzeć garncarza przy pracy, ale również spróbować swoich sił w toczeniu na kole, a także zakupić pamiątkowe wyroby z warsztatu. Bolimowska ceramika z zakładu Konopczyńskich wielokrotnie wykorzystywana była w filmach, m.in. w *Faraonie*, *Panu Tadeuszu*, czy *Ogniem i mieczem*. Więcej o warsztacie [*tutaj*](http://www.garncarz.com/).
+
+![Kościół św. Idziego w Inowłodzu](/foto/plenery/inowlodz-kosciol.jpg)
+
+## Kościół św. Idziego w Inowłodzu
+
+Władysława Hermana, Inowłódz
+
+Najstarszy zachowany budynek w województwie łódzkim, według tradycji ufundowany przez Władysława Hermana jako wotum dziękczynne za narodzenie syna, Bolesława Krzywoustego. Budynek w dużym stopniu zrekonstruowany w okresie międzywojennym, na polecenie prezydenta Mościckiego. Plener filmowy, ale także miejsce związane z muzyką - corocznie we wnętrzach świątyni odbywa się jeden z koncertów festiwalu "Kolory Polski". Świątynię można zwiedzać po skontaktowaniu się z kościelnym (numer telefonu umieszczony przy drzwiach kościoła).
+
+![Młyn w Ldzaniu-Talarze](/foto/plenery/ldzan-mlyn.jpg)
+
+## Młyn w Ldzaniu-Talarze
+
+Talar 2, Ldzań
+
+Osada młynarska składająca się z dwóch zabytkowych młynów z XIX wieku, położonych nad rzeką Grabią. W sezonie letnim działa tutaj bar, planowane jest również uruchomienie pensjonatu. Więcej o młynie [*tutaj*](https://www.facebook.com/Osada-Dwa-M%C5%82yny-302694426505029/). 
+
+![Dawne więzienie w Łęczycy](/foto/plenery/leczyca-wiezienie.jpg)
+
+## Dawne więzienie w Łęczycy
+
+Pocztowa 12, Łęczyca
+
+Dawne więzienie w Łęczycy (niedziałające od 2006 r.) urządzone zostało w zabudowaniach średniowiecznego klasztoru dominikanów. Swoją funkcję pełniło przez 200 lat, obecnie pozostaje nieużytkowane i jest wystawione na sprzedaż. Okazyjnie organizowane są wycieczki, podczas których można zwiedzić wnętrza obiektu. Miejsce to znane jest również jako plener filmowy - to z tego obiektu wychodził Henryk Kwinto (Jan Machulski), tu również przetrzymywana była bohaterka filmu *Papusza*.
+
+![Zamek w Łęczycy](/foto/plenery/leczyca-zamek.jpg)
+
+## Zamek w Łęczycy
+
+Zamkowa 1, Łęczyca
+
+Zamek w Łęczycy na obecnym miejscu wzniesiony został przez króla Kazimierza Wielkiego. Dziś w jego murach mieści się muzeum, prezentujące zbiory historyczne, archeologiczne i etnograficzne. Wśród tych ostatnich na szczególną uwagę zasługuje wyjątkowo bogata kolekcja rzeźb przedstawiających legendarnego pana na łęczyckim zamku - diabła Borutę. Na dziedzińcu zamkowym co roku organizowany jest turniej rycerski. Miejsce to posiada również swoją historię filmową, tu realizowane były ujęcia do serialu *Przyłbice i kaptury*.
 
