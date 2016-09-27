@@ -2,7 +2,7 @@
 title: Filmowe atrakcje
 ---
 
-![Ulica Piotrkowska](/foto/plenery/aleja-gwiazd-lodz.jpg)
+![Ulica Piotrkowska](/foto/plenery/lodz-piotrkowska.jpg)
 
 ## Ulica Piotrkowska, Łódź
 
