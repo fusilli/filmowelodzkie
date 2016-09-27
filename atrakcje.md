@@ -120,3 +120,24 @@ Zamkowa 1, Łęczyca
 
 Zamek w Łęczycy na obecnym miejscu wzniesiony został przez króla Kazimierza Wielkiego. Dziś w jego murach mieści się muzeum, prezentujące zbiory historyczne, archeologiczne i etnograficzne. Wśród tych ostatnich na szczególną uwagę zasługuje wyjątkowo bogata kolekcja rzeźb przedstawiających legendarnego pana na łęczyckim zamku - diabła Borutę. Na dziedzińcu zamkowym co roku organizowany jest turniej rycerski. Miejsce to posiada również swoją historię filmową, tu realizowane były ujęcia do serialu *Przyłbice i kaptury*.
 
+![Galeria Staroci i Pamiątek Regionalnych w Lipcach Reymontowskich](/foto/plenery/lipce-galeria-staroci.jpg)
+
+## Galeria Staroci i Pamiątek Regionalnych w Lipcach Reymontowskich
+
+Lipowa 15, Lipce Reymontowskieg
+
+Lipce to niewielka miejscowość, w której są aż trzy muzea. Jedno z nich to prywatna Galeria Staroci i Pamiątek Regionalnych, gdzie właściciel zgromadził olbrzymi zbiór sprzętów gospodarczych i domowych, używanych dawniej w Lipcach i okolicy. Wśród eksponatów jest również wystawa poświęcona powieści i serialowi *Chłopi*. Zobaczyć tu można olbrzymi zbiór wydań powieści, a także liczne pamiątki z czasu realizacji serialu w Lipcach - zbiór autografów aktorów, zdjęcia z planu, elementy scenografii i relacji prasowych. Dodatkową atrakcją wizyty w Galerii są opowieści właściciela, który statystował na planie serialu.
+
+![Grand Hotel w Łodzi](/foto/plenery/lodz-grand.jpg)
+
+## Grand Hotel w Łodzi
+
+Piotrkowska 72, Łódź
+
+Grand Hotel to najdłużej działający bez przerwy hotel w Łodzi. Założony został w 1888 r. Przez wiele lat był to najelegantszy hotel w mieście, tu nocowały m.in. polskie i światowe gwiazdy jak Jan Kiepura, Isadora Duncan, Robin Williams, czy Kirk Douglas. Za sprawą pomysłu Jana Machulskiego, w latach 90. kilka apartamentów otrzymało słynnych aktorów za patronów. W ten sposób można tu zanocować w pokojach m.in. Janusza Gajosa, Jana Machulskiego, Daniela Olbrychskiego, czy Beaty Tyszkiewicz. W pokojach obejrzeć można autografy, a także fotosy z planów filmowych ze zdjęciami aktorów. Sam hotel oczywiście ma również swoją bogatą historię filmową. Tu powstawały zdjęcia do *Krolla*, *Lepiej być piękną i bogatą*, czy *Thr3e*.
+
+![Szlak Łodzi Bajkowej](/foto/plenery/lodz-szlak-bajki.jpg)
+
+Ze względu na obecność w Łodzi Studia Se-Ma-For, wytyczony został tu Szlak Łodzi Bajkowej. Jak do tej pory w przestrzeni miasta rozmieszczonych zostało 9 pomników z bajkowymi bohaterami. Na ulicy Piotrkowskiej, przed Centrum Informacji Turystycznej, stoi Miś Uszatek. Ze ściany Łódzkiego Domu Kultury wyskakują bohaterowie Zaczarowanego Ołówka. W parku im. Sienkiewicza spotkać można Plastusia, bohatera Plastusiowego Pamiętnika. Przy Muzeum Kinematografii wylegują się w słońcu Filemon i Bonifacy. Przy Palmiarni gniazdo uwił Wróbel Ćwirek. Przed Galerią Łódzką stoi dostojnie Ferdynand Wspaniały. Na terenie Skansenu stoją Trzy Misie. Przy wejściu do Aquaparku Fala na fali unosi się Pingwin Pik-Pok, a przy łódzkim zoo stoją Maurycy i Hawranek.
+
+
