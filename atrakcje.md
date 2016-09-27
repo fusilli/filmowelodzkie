@@ -140,4 +140,15 @@ Grand Hotel to najdłużej działający bez przerwy hotel w Łodzi. Założony z
 
 Ze względu na obecność w Łodzi Studia Se-Ma-For, wytyczony został tu Szlak Łodzi Bajkowej. Jak do tej pory w przestrzeni miasta rozmieszczonych zostało 9 pomników z bajkowymi bohaterami. Na ulicy Piotrkowskiej, przed Centrum Informacji Turystycznej, stoi Miś Uszatek. Ze ściany Łódzkiego Domu Kultury wyskakują bohaterowie Zaczarowanego Ołówka. W parku im. Sienkiewicza spotkać można Plastusia, bohatera Plastusiowego Pamiętnika. Przy Muzeum Kinematografii wylegują się w słońcu Filemon i Bonifacy. Przy Palmiarni gniazdo uwił Wróbel Ćwirek. Przed Galerią Łódzką stoi dostojnie Ferdynand Wspaniały. Na terenie Skansenu stoją Trzy Misie. Przy wejściu do Aquaparku Fala na fali unosi się Pingwin Pik-Pok, a przy łódzkim zoo stoją Maurycy i Hawranek.
 
+![Pałac w Nieborowie](/foto/plenery/nieborow-palac.jpg)
+
+Nieborowski pałac to jedna z najlepiej zachowanych magnackich rezydencji w kraju. Przede wszystkim ze względu na niemal kompletne oryginalne wyposażenie, uratowane przed grabieżą w 1945 r. Obecnie stanowi oddział Muzeum Narodowego i wraz z otaczającym rezydencję parkiem jest dostępne dla zwiedzających. Sam pałac to plener blisko 20 filmów. Więcej o pałacu i muzeum [*tutaj*](http://www.nieborow.art.pl/).
+
+![Zamek w Oporowie](/foto/plenery/oporow-zamek.jpg)
+
+Zamek w Oporowie to jedna z nielicznych oryginalnych świeckich budowli gotyckich. Obiekt pełni obecnie funkcję muzealną. W jego wnętrzach realizowanych było kilka filmów, m.in. serial kryminalny *Ekstradycja*. Atrakcją jest możlwość zanocowania w zabytkowym budynku gospodarczym na terenie parku otaczającego zamek. Więcej o zamku [*tutaj*](http://www.zamekoporow.pl/).
+
+![Hotel Fabryka wełny w Pabianicach](/foto/plenery/pabianice-hotel.jpg)
+
+Fabryka wełny to nowoczesny hotel w zabytkowych murach pofabrycznych. Ulica Lipowa, przy której znajduje się obiekt to miejsce o wyjątkowym, industrialnym klimacie, dodatkowo uwiecznione w filmie (m.in. w *Ziemi obiecanej*). Więcej o hotelu [*tutaj*](http://www.fabrykawelny.pl/).
 
