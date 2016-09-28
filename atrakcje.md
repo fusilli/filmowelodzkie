@@ -152,3 +152,15 @@ Zamek w Oporowie to jedna z nielicznych oryginalnych świeckich budowli gotyckic
 
 Fabryka wełny to nowoczesny hotel w zabytkowych murach pofabrycznych. Ulica Lipowa, przy której znajduje się obiekt to miejsce o wyjątkowym, industrialnym klimacie, dodatkowo uwiecznione w filmie (m.in. w *Ziemi obiecanej*). Więcej o hotelu [*tutaj*](http://www.fabrykawelny.pl/).
 
+![Pałac w Piorunowie](/foto/plenery/piorunow-hotel.jpg)
+
+W pałacu (a dokładniej we dworze) w Piorunowie obecnie znajduje się hotel. Warto obejrzeć pieczołowicie odnowione wnętrza, nie tylko ze względu na filmową historię tego miejsca. Realizowano tu zdjęcia do *Weekendu*, a także do *Komisarza Alexa*. W okresie międzywojennym gościem w dworze, którego właścicielami była rodzina Niemyskich, bywała Maria Dąbrowska. Tu powstawały jej *Dzienniki*, któych fragmenty pisarka wykorzystała przy tworzeniu *Nocy i dni*. Podobno to właśnie miejscowe nenufary zachwyciły ją tak, że umieściła je na kartach powieści, co potem wykorzystał Jerzy Antczak przy ekranizacji powieści (niestety w filmie nie "zagrały" już piorunowskie kwiaty). Więcej o hotelu [*tutaj*](http://www.palac-piorunow.pl/).
+
+![Szlak Filmowy w Piotrkowie Trybunalskim](/foto/plenery/piotrkow-szlak.jpg)
+
+Piotrków Trybunalski to pierwsze miasto w województwie łódzkim, które doczekało się miejskiego szlaku filmowego z tablicami w kilkunastu najbardziej filmowych miejscach. Pierwsza tablica pojawiła się na ulicy Sieradzkiej, na budynku Biura Wystaw Artystycznych - w miejscu gdzie powstała scena otwierająca film *Vabank* (napad na jubilera). Obok tablicy pojawiła się też filmowa ławeczka Kwinty. Więcej o związkach Piotrkowa z filmem [*tutaj*](https://www.facebook.com/FilmowyPiotrkow/?hc_ref=PAGES_TIMELINE).
+
+![Młyn w Poświętnem](/foto/plenery/poswietne-mlyn.jpg)
+
+Młyn wodny znajdujący się na terenie ośrodka szkoleniowo-wypoczynkowego Młynczysko to nie tylko zabytek techniki, ale również miejsce związane z filmem. To w tym młynie kryjówkę mieli partyzanci w filmie *Jak rozpętałem II wojnę światową*, tu także Franek Dolas grał w trzy karty, próbując zdobyć pistolet... Więcej o ośrodku [*tutaj*](http://www.mlynczysko.pl/).
+
