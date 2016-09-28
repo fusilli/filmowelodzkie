@@ -164,3 +164,28 @@ Piotrków Trybunalski to pierwsze miasto w województwie łódzkim, które docze
 
 Młyn wodny znajdujący się na terenie ośrodka szkoleniowo-wypoczynkowego Młynczysko to nie tylko zabytek techniki, ale również miejsce związane z filmem. To w tym młynie kryjówkę mieli partyzanci w filmie *Jak rozpętałem II wojnę światową*, tu także Franek Dolas grał w trzy karty, próbując zdobyć pistolet... Więcej o ośrodku [*tutaj*](http://www.mlynczysko.pl/).
 
+![Parowozownia w Skierniewicach](/foto/plenery/skierniewice-parowozownia.jpg)
+
+Parowozownia w Skierniewicach to obiekt jeszcze z XIX w. Zgromadzona została tu jedna z bogatszych w Polsce kolekcja zabytkowego taboru kolejowego. Parowozownia jest dostępna dla zwiedzających, w każdą pierwszą sobotę miesiąca od maja do października odbywa się tu dzień otwarty. Dodatkowo obiekt jest otwierany na dodatkowe okazje, a także na zamówienie grup zorganizowanych. Oczywiście to także miejsce związane z filmem. Budynki parowozowni wykorzystano m.in. w *Czasie honoru* oraz w *Wołyniu*. Natomiast miejscowy tabor wypożyczany był do większej ilości filmów, m.in. do *Generała Nila*. Więcej o parowozowni [*tutaj*](http://www.psmk.org.pl/).
+
+![Opactwo Cystersów w Sulejowie-Podklasztorzu](/foto/plenery/sulejow-opactwo.jpg)
+
+Sulejowskie opactwo to jeden z najlepiej zachowanych średniowiecznych kompleksów klasztornych Cystersów w Europie. Obiekt o charakterze obronnym, otoczony pierścieniem murów z oryginalnymi basztami. Dziś na terenie części obiektu funkcjonuje hotel. Natomiast po kilkudziesięciu latach przerwy, w latach 80. XX w. powrócili tu Cystersi. W dawnym wirydarzu i kapitularzu zorganizowane zostało niewielkie muzeum przedstawiające historię tego miejsca. Do pozostałości dawnego klasztoru przylega romański kościół pw. NMP i św. Tomasza Kantuaryjskiego. Więcej o sulejowskich Cystersach [*tutaj*](http://cystersi.sulejow.pl/).
+
+![Skansen Rzeki Pilicy w Tomaszowie Mazowieckim](/foto/plenery/tomaszow-skansen-pilicy.jpg)
+
+Tomaszowski skansen poświęcony jest Pilicy i Nadlipiczu. Zgromadzono tu kilka zabytkowych budynków z tego obszaru, a także szereg innych pamiątek, w tym sprzętu wojskowego z czasów II wojny światowej, wydobytego z dna rzeki. Obiekt posiada również związki z filmem - jeden z obiektów w Skansenie to dawna poczekalnia kolejowa ze stacji Wolbórka (Czarnocin) - w czasach gdy znajdowała się jeszcze w oryginalnej lokalizacji, wykorzystano ją do kilku filmów, m.in. *Człowieka wózków*, czy *Kobiety z prowincji*. W muzealnych zbiorach znajdują się również pamiątki po realizacji w okolicach Tomaszowa serialu *Czterej pancerni i pies*. Więcej o Skansenie [*tutaj*](http://skansenpilicy.pl/).
+
+![Szlak Pancernych w okolicach Tomaszowa](/foto/plenery/tomaszow-tablica-pancernych.jpg)
+
+Na terenie Skansenu Rzeki Pilicy ustawiona została w 2012 r. tablica z mapą okolic Tomaszowa i zaznaczonymi plenerami serialu *Czterej pancerni i pies*. Filmowcy pracowali w Tomaszowie, Spale, Inowłodzu, Poświętnem, Ujeździe oraz Wolborzu przez pół roku, stąd miejscowe plenery można zobaczyć w serialu wielokrotnie. Tablica powstała dzięki współpracy Skansenu z Klubem Pancernych, zrzeszającym fanów tego kultowego serialu. Więcej o Klubie [*tutaj*](https://www.facebook.com/Stowarzyszenie-KLUB-PANCERNYCH-136261296410241/).
+
+![Pałac w Walewicach](/foto/plenery/walewice-palac.jpg)
+
+Klasycystyczny pałac szambelana ostatniego króla Polski, Stanisława Augusta Poniatowskiego to jedna z najbardziej okazałych rezydencji na terenie województwa łódzkiego. Dodatkowo związana jest z nim historia młodej żony szambelana - Marii z Łączyńskich Walewskiej i jej romansu z Napoleonem. I chociaż według przekazów historycznych francuski cesarz nigdy do Walewic nie dotarł, w jednym ze skrzydeł pałacu można obejrzeć sypialnię ozdobioną tapetami z epoki. Komnatę tę pani Walewska przygotowała ponoć specjalnie na spodziewaną wizytę ukochanego. Walewice słyną także z miejscowej stadniny koni. Przejeżdżając przez Walewice na ogół zobaczyć można pasące się w okolicach pałacu konie. Zarówno pałac jak i konie występowały również w filmach, m.in. w *Marysi i Napoleonie*, czy *Rodzinie Połanieckich*. Dziś we wnętrzach pałacu mieści się obiekt noclegowy. Więcej o obiekcie [*tutaj*](http://www.walewice.pl/).
+
+![Basen w Zgierzu](/foto/plenery/zgierz-basen.jpg)
+
+Miejski Zakład Kąpielowy w Zgierzu to obiekt z lat 20. XX w., jeden z najstarszych basenów w Polsce. Zachowany w oryginalnym kształcie, do dzisiaj pełni pierwotną funkcję jako ogólnodostępny miejski basen. Obiekt był wykorzystywany przez filmowców, tu powstawały m.in. *Trójkąt bermudzki*, *C.K. Dezerterzy*, czy *Serce, serduszko*. Więcej o basenie [*tutaj*](http://www.mpgkzgierz.pl/basen.html).
+
+
