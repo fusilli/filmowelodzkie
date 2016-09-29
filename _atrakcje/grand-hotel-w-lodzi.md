@@ -1,0 +1,10 @@
+---
+title: Grand Hotel w Łodzi
+gdzie: Łódź
+rodzaj: miejsce
+---
+![Grand Hotel w Łodzi](/foto/plenery/lodz-grand.jpg)
+
+Piotrkowska 72, Łódź
+
+Grand Hotel to najdłużej działający bez przerwy hotel w Łodzi. Założony został w 1888 r. Przez wiele lat był to najelegantszy hotel w mieście, tu nocowały m.in. polskie i światowe gwiazdy jak Jan Kiepura, Isadora Duncan, Robin Williams, czy Kirk Douglas. Za sprawą pomysłu Jana Machulskiego, w latach 90. kilka apartamentów otrzymało słynnych aktorów za patronów. W ten sposób można tu zanocować w pokojach m.in. Janusza Gajosa, Jana Machulskiego, Daniela Olbrychskiego, czy Beaty Tyszkiewicz. W pokojach obejrzeć można autografy, a także fotosy z planów filmowych ze zdjęciami aktorów. Sam hotel oczywiście ma również swoją bogatą historię filmową. Tu powstawały zdjęcia do *Krolla*, *Lepiej być piękną i bogatą*, czy *Thr3e*.

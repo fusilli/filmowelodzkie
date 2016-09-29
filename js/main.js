@@ -5,6 +5,11 @@ var options = {
 };
 var filmList = new List('filmy', options);
 
+var options2 = {
+  valueNames: [ 'tytul', 'gdzie', 'rodzaj' ]
+};
+var atrakcjeList = new List('atrakcje', options2);
+
 $(document).ready(function(){
   $('.slajder').slick({
   	autoplay: true
@@ -14,6 +19,12 @@ $(document).ready(function(){
       var input = $('.search');
       input.val(value);
       filmList.search(value);
+  });
+  $(".przyciskAtrakcje").click(function(){
+      var value = $(this).text();
+      var input = $('.search');
+      input.val(value);
+      atrakcjeList.search(value);
   });
   $('.fb-button').click(function(event){
   	event.preventDefault();

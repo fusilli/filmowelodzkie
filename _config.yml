@@ -14,6 +14,9 @@ collections:
   lokacje:
     output: true
     permalink: /lokacje/:path/
+  atrakcje:
+    output: true
+    permalink: /atrakcje/:path/
 defaults:
   - scope:
       path: ""

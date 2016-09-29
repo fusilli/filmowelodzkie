@@ -1,0 +1,19 @@
+#atrakcje {
+	.sortuj {
+		display: block;
+		margin: 10px 0;
+		button {
+			margin-bottom: 3px;
+		}
+	}
+	h3 {
+		margin-bottom: 0;
+	}
+	p {
+		margin: 0;
+	}
+}
+.gdzie:hover, .rodzaj:hover {
+	color: $zolty;
+	cursor: pointer;
+}

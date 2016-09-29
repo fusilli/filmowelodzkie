@@ -1,0 +1,39 @@
+---
+layout: default
+---
+<div id="atrakcje">
+	<input class="search" placeholder="Szukaj…" />
+	<div class="sortuj">Gdzie: 
+		<button class="przyciskAtrakcje">Bogusławice</button>
+		<button class="przyciskAtrakcje">Bolimów</button>
+		<button class="przyciskAtrakcje">Inowłódz</button>
+		<button class="przyciskAtrakcje">Ldzań-Talar</button>
+		<button class="przyciskAtrakcje">Lipce Reymontowskie</button>
+		<button class="przyciskAtrakcje">Łęczyca</button>
+		<button class="przyciskAtrakcje">Łódź</button>
+		<button class="przyciskAtrakcje">Nieborów</button>
+		<button class="przyciskAtrakcje">Oporów</button>
+		<button class="przyciskAtrakcje">Pabianice</button>
+		<button class="przyciskAtrakcje">Piorunów</button>
+		<button class="przyciskAtrakcje">Piotrków Trybunalski</button>
+		<button class="przyciskAtrakcje">Poświętne</button>
+		<button class="przyciskAtrakcje">Skierniewice</button>
+		<button class="przyciskAtrakcje">Sulejów</button>
+		<button class="przyciskAtrakcje">Tomaszów Mazowiecki</button>
+		<button class="przyciskAtrakcje">Walewice</button>
+	</div>
+	<div class="sortuj">Rodzaj: 
+		<button class="przyciskAtrakcje">miejsce</button>
+		<button class="przyciskAtrakcje">wydarzenie</button>
+		<button class="przyciskAtrakcje">inne</button>
+	</div>
+	<ul class="list">
+	{% for atrakcja in site.atrakcje %}
+		<li class="atrakcja">
+			<h3 class="tytul"><a href="{{ atrakcja.url }}" title="{{ atrakcja.title }}">{{ atrakcja.title }}</a></h3>
+			<p><strong>Gdzie:</strong> <span class="gdzie przyciskAtrakcje">{{ atrakcja.gdzie }}</span></p>
+			<p><strong>Rodzaj:</strong> <span class="rodzaj przyciskAtrakcje">{{ atrakcja.rodzaj }}</span></p>
+		</li>
+	{% endfor %}
+	</ul>
+</div>

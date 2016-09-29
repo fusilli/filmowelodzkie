@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 	{% include head.html %}
-	<body>
+	<body {% if page.title == "Filmowe atrakcje" %}class="atrakcje"{% endif %}>
 		<div class="container">
 			{% include header.html %}
 			<main role="main">
