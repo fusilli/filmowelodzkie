@@ -2,6 +2,7 @@
 title: Warsztat garncarski w Bolimowie
 gdzie: Bolimów
 rodzaj: miejsce
+link: warsztat-garncarski-w-bolimowie
 ---
 ![Warsztat garncarski w Bolimowie](/foto/plenery/bolimow-garncarz.jpg)
 

@@ -2,6 +2,7 @@
 title: Pałac w Piorunowie
 gdzie: Piorunów
 rodzaj: miejsce
+link: palac-w-piorunowie
 ---
 ![Pałac w Piorunowie](/foto/plenery/piorunow-hotel.jpg)
 

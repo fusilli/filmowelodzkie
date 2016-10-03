@@ -2,6 +2,7 @@
 title: Se-Ma-For Muzeum Animacji przy Fundacji Filmowej SE-MA-FOR
 gdzie: Łódź
 rodzaj: miejsce
+link: se-ma-for-muzeum-animacji
 ---
 ![Muzeum Animacji](/foto/plenery/muzeum-animacji.jpg)
 

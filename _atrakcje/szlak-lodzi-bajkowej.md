@@ -2,6 +2,7 @@
 title: Szlak Łodzi Bajkowej
 gdzie: Łódź
 rodzaj: miejsce
+link: szlak-lodzi-bajkowej
 ---
 ![Szlak Łodzi Bajkowej](/foto/plenery/lodz-szlak-bajki.jpg)
 

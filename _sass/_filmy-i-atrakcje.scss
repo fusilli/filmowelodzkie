@@ -49,7 +49,7 @@ button {
 			width: 0;
 	}
 }
-#filmy {
+#filmy, #atrakcje {
 	ul {
 		@extend .clearfix;
 		padding: 0;
@@ -94,6 +94,20 @@ button {
 	}
 }
 .przycisk:hover {
+	color: $zolty;
+	cursor: pointer;
+}
+
+#atrakcje {
+	.sortuj {
+		display: block;
+		margin: 10px 0;
+		button {
+			margin-bottom: 3px;
+		}
+	}
+}
+.gdzie:hover, .rodzaj:hover {
 	color: $zolty;
 	cursor: pointer;
 }

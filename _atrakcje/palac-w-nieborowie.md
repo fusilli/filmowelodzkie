@@ -2,6 +2,7 @@
 title: Pałac w Nieborowie
 gdzie: Nieborów
 rodzaj: miejsce
+link: palac-w-nieborowie
 ---
 ![Pałac w Nieborowie](/foto/plenery/nieborow-palac.jpg)
 

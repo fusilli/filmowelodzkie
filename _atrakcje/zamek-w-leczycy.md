@@ -2,6 +2,7 @@
 title: Zamek w Łęczycy
 gdzie: Łęczyca
 rodzaj: miejsce
+link: zamek-w-leczycy
 ---
 ![Zamek w Łęczycy](/foto/plenery/leczyca-zamek.jpg)
 

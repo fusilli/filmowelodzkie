@@ -2,6 +2,7 @@
 title: Grand Hotel w Łodzi
 gdzie: Łódź
 rodzaj: miejsce
+link: grand-hotel-w-lodzi
 ---
 ![Grand Hotel w Łodzi](/foto/plenery/lodz-grand.jpg)
 

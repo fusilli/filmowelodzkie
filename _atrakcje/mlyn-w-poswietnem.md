@@ -2,6 +2,7 @@
 title: Młyn w Poświętnem
 gdzie: Poświętne
 rodzaj: miejsce
+link: mlyn-w-poswietnem
 ---
 ![Młyn w Poświętnem](/foto/plenery/poswietne-mlyn.jpg)
 

@@ -8,7 +8,7 @@ layout: default
 	{% for film in site.filmy %}
 		<li class="film">
 			<a href="/filmy/{{ film.link }}/" title="{{ film.title }}">
-				<div class="klatka" href="/filmy/{{ film.link }}/">
+				<div class="klatka">
 					<img class="svg" src="/img/klisza.svg">
 					{% unless film.fot %}<img class="kadr" src="/filmy/{{ film.link }}.jpg" alt="{{ film.title }}" width="300" height="200">{% else %}<img class="kadr" src="/img/placeholder.png" alt="Brak zdjęcia do tego filmu" width="300" height="200">{% endunless %}
 					<img class="svg" src="/img/klisza.svg">

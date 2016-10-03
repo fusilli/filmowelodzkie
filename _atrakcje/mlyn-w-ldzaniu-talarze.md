@@ -2,6 +2,7 @@
 title: Młyn w Ldzaniu-Talarze
 gdzie: Ldzań-Talar
 rodzaj: miejsce
+link: mlyn-w-ldzaniu-talarze
 ---
 ![Młyn w Ldzaniu-Talarze](/foto/plenery/ldzan-mlyn.jpg)
 

@@ -2,6 +2,7 @@
 title: Galeria Staroci i Pamiątek Regionalnych w Lipcach Reymontowskich
 gdzie: Lipce Reymontowskie
 rodzaj: miejsce
+link: galeria-staroci-i-pamiatek-regionalnych-w-lipcach-reymontowskich
 ---
 ![Galeria Staroci i Pamiątek Regionalnych w Lipcach Reymontowskich](/foto/plenery/lipce-galeria-staroci.jpg)
 

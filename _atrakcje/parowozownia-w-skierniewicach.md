@@ -2,6 +2,7 @@
 title: Parowozownia w Skierniewicach
 gdzie: Skierniewice
 rodzaj: miejsce
+link: parowozownia-w-skierniewicach
 ---
 ![Parowozownia w Skierniewicach](/foto/plenery/skierniewice-parowozownia.jpg)
 

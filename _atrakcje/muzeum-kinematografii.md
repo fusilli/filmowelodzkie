@@ -2,6 +2,7 @@
 title: Muzeum Kinematografii
 gdzie: Łódź
 rodzaj: miejsce
+link: muzeum-kinematografii
 ---
 ![Muzeum Kinematografii](/foto/plenery/muzeum-kinematografii.jpg)
 

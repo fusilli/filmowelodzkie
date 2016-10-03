@@ -2,6 +2,7 @@
 title: Zamek w Oporowie
 gdzie: Oporów
 rodzaj: miejsce
+link: zamek-w-oporowie
 ---
 ![Zamek w Oporowie](/foto/plenery/oporow-zamek.jpg)
 

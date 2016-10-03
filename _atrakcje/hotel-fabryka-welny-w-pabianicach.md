@@ -2,6 +2,7 @@
 title: Hotel Fabryka wełny w Pabianicach
 gdzie: Pabianice
 rodzaj: miejsce
+link: hotel-fabryka-welny-w-pabianicach
 ---
 ![Hotel Fabryka wełny w Pabianicach](/foto/plenery/pabianice-hotel.jpg)
 

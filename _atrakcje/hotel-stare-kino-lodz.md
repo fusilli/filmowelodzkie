@@ -2,6 +2,7 @@
 title: Hotel Stare Kino Łódź
 gdzie: Łódź
 rodzaj: miejsce
+link: hotel-stare-kino-lodz
 ---
 ![Stare Kino Łódź](/foto/plenery/lodz-stare-kino.jpg)
 

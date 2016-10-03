@@ -2,6 +2,7 @@
 title: Pałac w Walewicach
 gdzie: Walewice
 rodzaj: miejsce
+link: palac-w-walewicach
 ---
 ![Pałac w Walewicach](/foto/plenery/walewice-palac.jpg)
 

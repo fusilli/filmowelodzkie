@@ -2,6 +2,7 @@
 title: Szlak Pancernych w okolicach Tomaszowa
 gdzie: Tomaszów Mazowiecki
 rodzaj: miejsce
+link: szlak-pancernych-w-okolicach-tomaszowa
 ---
 ![Szlak Pancernych w okolicach Tomaszowa](/foto/plenery/tomaszow-tablica-pancernych.jpg)
 

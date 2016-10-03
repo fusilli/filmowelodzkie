@@ -2,6 +2,7 @@
 title: Dawne więzienie w Łęczycy
 gdzie: Łęczyca
 rodzaj: miejsce
+link: dawne-wiezienie-w-leczycy
 ---
 ![Dawne więzienie w Łęczycy](/foto/plenery/leczyca-wiezienie.jpg)
 

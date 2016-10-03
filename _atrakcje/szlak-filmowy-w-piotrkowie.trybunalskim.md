@@ -2,6 +2,7 @@
 title: Szlak Filmowy w Piotrkowie Trybunalskim
 gdzie: Piotrków Trybunalski
 rodzaj: miejsce
+link: szlak-filmowy-w-piotrkowie-trybunalskim
 ---
 ![Szlak Filmowy w Piotrkowie Trybunalskim](/foto/plenery/piotrkow-szlak.jpg)
 

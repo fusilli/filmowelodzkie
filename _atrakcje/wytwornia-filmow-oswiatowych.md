@@ -2,6 +2,7 @@
 title: Wytwórnia Filmów Oświatowych
 gdzie: Łódź
 rodzaj: miejsce
+link: wytwornia-filmow-oswiatowych
 ---
 ![Wytwórnia Filmów Oświatowych](/foto/plenery/lodz-oswiatowka.jpg)
 

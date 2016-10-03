@@ -2,6 +2,7 @@
 title: Opactwo Cystersów w Sulejowie-Podklasztorzu
 gdzie: Sulejów
 rodzaj: miejsce
+link: opactwo-cystersow-w-sulejowie-podklasztorzu
 ---
 ![Opactwo Cystersów w Sulejowie-Podklasztorzu](/foto/plenery/sulejow-opactwo.jpg)
 

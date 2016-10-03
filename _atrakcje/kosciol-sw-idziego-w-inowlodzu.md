@@ -2,6 +2,7 @@
 title: Kościół św. Idziego w Inowłodzu
 gdzie: Inowłódz
 rodzaj: miejsce
+link: kosciol-sw-idziego-w-inowlodzu
 ---
 ![Kościół św. Idziego w Inowłodzu](/foto/plenery/inowlodz-kosciol.jpg)
 

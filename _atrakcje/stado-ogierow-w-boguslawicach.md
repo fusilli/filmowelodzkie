@@ -2,6 +2,7 @@
 title: Stado Ogierów w Bogusławicach
 gdzie: Bogusławice
 rodzaj: miejsce
+link: stado-ogierow-w-boguslawicach
 ---
 ![Bogusławice Stado Ogierów](/foto/plenery/boguslawice-stado.jpg)
 

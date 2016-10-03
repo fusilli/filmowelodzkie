@@ -29,8 +29,15 @@ layout: default
 	</div>
 	<ul class="list">
 	{% for atrakcja in site.atrakcje %}
-		<li class="atrakcja">
-			<h3 class="tytul"><a href="{{ atrakcja.url }}" title="{{ atrakcja.title }}">{{ atrakcja.title }}</a></h3>
+		<li class="film">
+			<a href="/atrakcje/{{ atrakcja.link }}/" title="{{ atrakcja.title }}">
+				<div class="klatka">
+					<img class="svg" src="/img/klisza.svg">
+					{% unless atrakcja.fot %}<img class="kadr" src="/atrakcje/{{ atrakcja.link }}.jpg" alt="{{ atrakcja.title }}" width="300" height="200">{% else %}<img class="kadr" src="/img/placeholder.png" alt="Brak zdjęcia do tej atrakcji" width="300" height="200">{% endunless %}
+					<img class="svg" src="/img/klisza.svg">
+				</div>
+				<h3 class="tytul">{{ atrakcja.title }}</h3>
+			</a>
 			<p><strong>Gdzie:</strong> <span class="gdzie przyciskAtrakcje">{{ atrakcja.gdzie }}</span></p>
 			<p><strong>Rodzaj:</strong> <span class="rodzaj przyciskAtrakcje">{{ atrakcja.rodzaj }}</span></p>
 		</li>

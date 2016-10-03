@@ -2,6 +2,7 @@
 title: Dawna kawiarnia „Honoratka”
 gdzie: Łódź
 rodzaj: miejsce
+link: dawna-kawiarnia-honoratka
 ---
 ![Honoratka Łódź](/foto/plenery/lodz-honoratka.jpg)
 

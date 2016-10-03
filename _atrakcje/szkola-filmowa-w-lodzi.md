@@ -2,6 +2,7 @@
 title: Szkoła Filmowa w Łodzi
 gdzie: Łódź
 rodzaj: miejsce
+link: szkola-filmowa-w-lodzi
 ---
 ![Szkoła Filmowa](/foto/plenery/szkola-filmowa.jpg)
 

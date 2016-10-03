@@ -2,6 +2,7 @@
 title: Ulica Piotrkowska
 gdzie: Łódź
 rodzaj: miejsce
+link: ulica-piotrkowska
 ---
 ![Ulica Piotrkowska](/foto/plenery/lodz-piotrkowska.jpg)
 

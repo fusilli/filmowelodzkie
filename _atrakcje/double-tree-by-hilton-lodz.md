@@ -2,6 +2,7 @@
 title: Double Tree by Hilton Łódź
 gdzie: Łódź
 rodzaj: miejsce
+link: double-tree-by-hilton-lodz
 ---
 ![Hilton Łódź](/foto/plenery/hilton-lodz.jpg)
 

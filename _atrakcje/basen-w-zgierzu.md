@@ -2,6 +2,7 @@
 title: Basen w Zgierzu
 gdzie: Zgierz
 rodzaj: miejsce
+link: basen-w-zgierzu
 ---
 ![Basen w Zgierzu](/foto/plenery/zgierz-basen.jpg)
 

@@ -2,6 +2,7 @@
 title: Skansen Rzeki Pilicy w Tomaszowie Mazowieckim
 gdzie: Tomaszów Mazowiecki
 rodzaj: miejsce
+link: skansen-rzeki-pilicy-w-tomaszowie-mazowieckim
 ---
 ![Skansen Rzeki Pilicy w Tomaszowie Mazowieckim](/foto/plenery/tomaszow-skansen-pilicy.jpg)
 
