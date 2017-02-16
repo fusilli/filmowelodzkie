@@ -17,7 +17,7 @@ Jeden z najbardziej znanych polskich seriali, opowiadający przygody załogi ”
 Serial doczekał się nawet poświęconej mu książki – przewodnika autorstwa Marka Łazarza, gdzie wśród różnych akcentów okołofilmowych przedstawione zostały również plenery. Wśród tych ostatnich bogato reprezentowane jest województwo łódzkie.
 W samej Łodzi wykorzystano dwie wille położone po sąsiedzku – należące w przeszłości do Reinholda i Józefa Richterów, stojące przy ul. Skorupki, na terenie parku im. Klepacza. Pierwsza przeobraziła się w pałac w Schwarzer Forst, tu Lidkę i Grigorija witają niemieccy „mieszkańcy” pałacu. Pałac „zagrał” tylko z zewnątrz, wnętrza to już druga z łódzkich willi. Tu Czereśniak stara się obudzić resztę załogi granatem, tu także smaży dla nich jajecznicę.
 
-![Makieta Bramy Brandenburskiej w Aleksandrowie](/foto/kadry/czterej-pancerni-2.jpg)
+![Makieta Bramy Brandenburskiej w Aleksandrowie](/foto/kadry/Czterej-pancerni-2.jpg)
 
 Na terenie lotniska polowego w Aleksandrowie Łódzkim wybudowano makietę berlińskiej Bramy Brandenburskiej, a także fragment zabudowy zniszczonych kamienic w centrum niemieckiej stolicy. Dekoracje te wykorzystano w filmie „Kierunek Berlin”, a następnie już gotową scenografię wykorzystali twórcy „pancernych”. Warto zaznaczyć że makieta Bramy wykonana została w skali 1:1.
 Duże zgrupowanie plenerów serialowych to okolice Pilicy. Nic dziwnego, w tych okolicach filmowcy pracujący przy serialu spędzili pół roku. Filmowcy pracowali w Poświętnem – tu Grigorij otwierał bramę pałacu w Schwarzer Forst „po czołgowemu”, a przez plac przy bazylice przechodzili Czereśniakowie. W Inowłodzu wykorzystano kościół św. Idziego – to kolejny obiekt który stał się pałacem w Schwarzer Forst. Tym razem charakterystyczna wieża kościoła przeobraziła się w pałacową wieżę, którą widzą z daleka członkowie załogi „Rudego”. Najpierw przy drodze z Lubochni zatrzymuje się ciężarówka z Lidką, Grigorijem i Czereśniakiem, a następnie „Rudy” z Jankiem, Gustlikiem i Wichurą. Oba zespoły obserwują z daleka wieżę. Inny inowłodzki plener to droga na Spałę. Na wysokości dzisiejszej kopalni chalcedonitu zrealizowana została scena w której załoga czołgu spotkała niemieckiego chłopca Arnolda, a Czereśniak próbował ciągnąć krowę za ciężarówką. 
@@ -25,7 +25,7 @@ Niedaleko Inowłodza, bo w Spale realizowane były ujęcia przy moście na Pilic
 Sam Tomaszów posiada jeszcze jeden ważny akcent związany z serialem – na terenie Skansenu Rzeki Pilicy umieszczona została tablica z mapą Nadpilicza i serialowymi plenerami układającymi się w szlak turystyczny. 
 Okolice Pilicy to również Wolbórz i pobliskie Bogusławice. W filmie wykorzystano stado krów z miejscowego PGR (w Bogusławicach) – przeganiają je Grigorij i Czereśniak. W pobliskiej wsi Brudaki Gustlik z Czereśniakiem wychodzą w pole jako siewcy. 
 
-![Grigorij i Czereśniak wśród krów z Bogusławic](/foto/kadry/czterej-pancerni.jpg)
+![Grigorij i Czereśniak wśród krów z Bogusławic](/foto/kadry/Czterej-pancerni.jpg)
 
 W dalej od Pilicy położonym Ujeździe (chociaż niedaleko od Tomaszowa Mazowieckiego) wykorzystano miejscowy PGR. Przeobraził się w gospodarstwo, gdzie trafiają „pancerni” prowadzący krasulę i niemieckiego chłopca. Tu według fabuły ma miejsce atak Niemców na stado krów.
 Filmowcy pracowali również na poligonie w Raduczu blisko Rawy Mazowieckiej – tu realizowane były sceny ataku Niemców na gospodarstwo rolne, gdzie chwilowo stacjonowali „pancerni” (połączone zdjęcia z ujęciami z Ujazdu i Bogusławic).
