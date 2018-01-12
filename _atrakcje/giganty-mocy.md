@@ -2,7 +2,7 @@
 title: Giganty Mocy
 gdzie: Bełchatów
 rodzaj: miejsce
-link: Giganty-Mocy
+link: giganty-mocy
 ---
 ![Giganty Mocy](/foto/plenery/giganty-mocy.jpg)
 
