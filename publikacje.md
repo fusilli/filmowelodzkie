@@ -24,6 +24,6 @@ W 2016 r. w ramach projektu „Szlak filmowy województwa łódzkiego” [Filmow
 [![Potencjał turystyczny dziedzictwa filmowego w województwie łódzkim](/img/potencjal-turystyczny-dziedzictwa-filmowego-w-wojewodztwie-lodzkim.jpg)](http://regiocentrum.pl/pobierz/potencjal-turystyczny-dziedzictwa-filmowego-w-woj-%20lodzkim_m-kronenberg-regio-2016.pdf)
 
 Z kolei w 2018 r. w ramach projektu "Pociągiem w Filmowe Łódzkie" dofinansowanego ze środków Urzędu Marszałkowskiego w Łodzi przygotowaliśmy trzy foldery o filmowym dziedzictwie [Łowicza](http://regiocentrum.pl/wp-content/uploads/2018/08/folder-filmowe_lowicz.pdf), [Skierniewic](http://regiocentrum.pl/wp-content/uploads/2018/08/folder-filmowe_skierniewice.pdf) i [Zgierza](http://regiocentrum.pl/wp-content/uploads/2018/08/folder-filmowe_zgierz.pdf). Foldery rozdawane były uczestnikom wycieczek, które prowadziliśmy do tych trzech miast, korzystając z pociągów Łódzkiej Kolei Aglomeracyjnej.
-[![Łowicz folder filmowy](img/lowicz-folder-filmowy.jpg)]http://regiocentrum.pl/wp-content/uploads/2018/08/Łowicz-folder-filmowy.jpg
-[![Skierniewice folder filmowy](img/skierniewice-folder-filmowy.jpg)]http://regiocentrum.pl/wp-content/uploads/2018/08/Skierniewice-folder-filmowy.jpg
-[![Zgierz folder filmowy](img/zgierz-folder-filmowy.jpg)]http://regiocentrum.pl/wp-content/uploads/2018/08/Zgierz-folder-filmowy.jpg
+[![Łowicz folder filmowy](img/lowicz-folder-filmowy.jpg)](http://regiocentrum.pl/wp-content/uploads/2018/08/Łowicz-folder-filmowy.jpg)
+[![Skierniewice folder filmowy](img/skierniewice-folder-filmowy.jpg)](http://regiocentrum.pl/wp-content/uploads/2018/08/Skierniewice-folder-filmowy.jpg)
+[![Zgierz folder filmowy](img/zgierz-folder-filmowy.jpg)](http://regiocentrum.pl/wp-content/uploads/2018/08/Zgierz-folder-filmowy.jpg)
