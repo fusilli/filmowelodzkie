@@ -15,7 +15,7 @@ link: czterej-pancerni-i-pies
 ---
 Jeden z najbardziej znanych polskich seriali, opowiadający przygody załogi ”Rudego”,czyli czołgu nr 102 I Brygady Pancernej im. Bohaterów Westerplatte. Młodzi żołnierze przemierzają terytorium Polski walcząc z okupantem o jej wyzwolenie.  Oprócz czterech czołgistów, załogę czołgu stanowił także wyjątkowy żołnierz – wilczur Szarik.
 Serial doczekał się nawet poświęconej mu książki – przewodnika autorstwa Marka Łazarza, gdzie wśród różnych akcentów okołofilmowych przedstawione zostały również plenery. Wśród tych ostatnich bogato reprezentowane jest województwo łódzkie.
-W samej Łodzi wykorzystano dwie wille położone po sąsiedzku – należące w przeszłości do Reinholda i Józefa Richterów, stojące przy ul. Skorupki, na terenie parku im. Klepacza. Pierwsza przeobraziła się w pałac w Schwarzer Forst, tu Lidkę i Grigorija witają niemieccy „mieszkańcy” pałacu. Pałac „zagrał” tylko z zewnątrz, wnętrza to już druga z łódzkich willi. Tu Czereśniak stara się obudzić resztę załogi granatem, tu także smaży dla nich jajecznicę.
+W samej Łodzi wykorzystano dwie wille położone po sąsiedzku – należące w przeszłości do Reinholda i Józefa Richterów, stojące przy ul. Skorupki, na terenie parku im. Klepacza. Oba przeobraziły się w pałac w Schwarzer Forst. W dawnej willi Reinholda Richtera Lidkę i Grigorija witają niemieccy „mieszkańcy” pałacu. Pałac „zagrał” tylko z zewnątrz, wnętrza to już druga ze wspomnianych rezydencji. Tu Czereśniak stara się obudzić resztę załogi granatem, tu także smaży dla nich jajecznicę.
 
 ![Makieta Bramy Brandenburskiej w Aleksandrowie](/foto/kadry/Czterej-pancerni-2.jpg)
 
