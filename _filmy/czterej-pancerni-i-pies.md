@@ -29,4 +29,4 @@ Okolice Pilicy to również Wolbórz i pobliskie Bogusławice. W filmie wykorzys
 
 W dalej od Pilicy położonym Ujeździe (chociaż niedaleko od Tomaszowa Mazowieckiego) wykorzystano miejscowy PGR. Przeobraził się w gospodarstwo, gdzie trafiają „pancerni” prowadzący krasulę i niemieckiego chłopca. Tu według fabuły ma miejsce atak Niemców na stado krów.
 Filmowcy pracowali również na poligonie w Raduczu blisko Rawy Mazowieckiej – tu realizowane były sceny ataku Niemców na gospodarstwo rolne, gdzie chwilowo stacjonowali „pancerni” (połączone zdjęcia z ujęciami z Ujazdu i Bogusławic).
-Więcej o filmie można przeczytać na stronie: [*tutaj*](http://www.filmpolski.pl/fp/index.php?film=121749) oraz na i [*tutaj*](http://www.tvp.pl/seriale/archiwalne/czterej-pancerni-i-pies).
+Więcej o filmie można przeczytać na stronie: [*tutaj*](http://www.filmpolski.pl/fp/index.php?film=121749) oraz [*tutaj*](http://www.tvp.pl/seriale/archiwalne/czterej-pancerni-i-pies).
