@@ -3,9 +3,9 @@ title: Publikacje
 ---
 W 2009 r. Stowarzyszenie REGIO rozpoczęło realizację działań związanych z dziedzictwem filmowym. Zrealizowaliśmy wówczas projekt [„Szlak dziedzictwa filmowego Łodzi”](http://www.filmowalodz.pl/). 
 
-Rok później ukazał się książkowy [*Przewodnik po filmowej Łodzi*](https://regiocentrum.pl/wydawnictwo/przewodnik-po-filmowej-lodzi).
+Rok później ukazał się książkowy [*Przewodnik po filmowej Łodzi*](https://regiocentrum.pl/wydawnictwo/przewodnik-po-filmowej-lodzi/).
 
-[![Przewodnik po filmowej Łodzi](/img/przewodnik-po-filmowej-lodzi.jpg)](https://regiocentrum.pl/wydawnictwo/przewodnik-po-filmowej-lodzi)
+[![Przewodnik po filmowej Łodzi](/img/przewodnik-po-filmowej-lodzi.jpg)](https://regiocentrum.pl/wydawnictwo/przewodnik-po-filmowej-lodzi/)
 
 Kontynuując te działania w 2014 r. opublikowaliśmy [*Stawkowy przewodnik filmowy*](https://regiocentrum.pl/wydawnictwo/stawkowy-przewodnik-filmowy) poświęcony plenerom *Stawki większej niż życie*.
 
