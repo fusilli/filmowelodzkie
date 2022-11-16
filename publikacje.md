@@ -33,4 +33,4 @@ Z kolei w 2018 r. w ramach projektu "Pociągiem w Filmowe Łódzkie" dofinansowa
 
 W 2021 r. wydaliśmy drugie, rozszerzone wydanie [*Przewodnik po filmowej Łodzi*](https://regiocentrum.pl/wydawnictwo/przewodnik-po-filmowej-lodzi-wydanie-nowe).
 
-[![Przewodnik po filmowej Łodzi](/img/przewodnik-filmowy-po-wojewodztwie-lodzkim.jpg)](https://regiocentrum.pl/wydawnictwo/przewodnik-po-filmowej-lodzi-wydanie-nowe)
+[![Przewodnik po filmowej Łodzi](/img/przewodnik-po-filmowej-lodzi-nowe.jpg)](https://regiocentrum.pl/wydawnictwo/przewodnik-po-filmowej-lodzi-wydanie-nowe)
