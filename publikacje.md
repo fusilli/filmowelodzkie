@@ -30,3 +30,7 @@ Z kolei w 2018 r. w ramach projektu "Pociągiem w Filmowe Łódzkie" dofinansowa
 [![Skierniewice folder filmowy](/img/skierniewice-folder-filmowy.jpg)](https://regiocentrum.pl/media/pages/o-nas/zrealizowane-projekty/pociagiem-w-lodzkie/7a63580303-1596203383/folder-filmowe_skierniewice.pdf/)
 
 [![Zgierz folder filmowy](/img/zgierz-folder-filmowy.jpg)](https://regiocentrum.pl/media/pages/o-nas/zrealizowane-projekty/pociagiem-w-lodzkie/3dfe990cce-1596203382/folder-filmowe_zgierz.pdf/)
+
+W 2021 r. wydaliśmy drugie, rozszerzone wydanie [*Przewodnik po filmowej Łodzi*](https://regiocentrum.pl/wydawnictwo/przewodnik-po-filmowej-lodzi-wydanie-nowe).
+
+[![Przewodnik po filmowej Łodzi](/img/przewodnik-filmowy-po-wojewodztwie-lodzkim.jpg)](https://regiocentrum.pl/wydawnictwo/przewodnik-po-filmowej-lodzi-wydanie-nowe)
