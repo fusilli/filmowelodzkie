@@ -1,7 +1,7 @@
 ---
 title: Publikacje
 ---
-W 2009 r. Stowarzyszenie REGIO rozpoczęło realizację działań związanych z dziedzictwem filmowym. Zrealizowaliśmy wówczas projekt [„Szlak dziedzictwa filmowego Łodzi”](http://www.filmowalodz.pl/). 
+W 2009 r. Stowarzyszenie REGIO rozpoczęło realizację działań związanych z dziedzictwem filmowym. Zrealizowaliśmy wówczas projekt „Szlak dziedzictwa filmowego Łodzi”. 
 
 Rok później ukazał się książkowy [*Przewodnik po filmowej Łodzi*](https://regiocentrum.pl/wydawnictwo/przewodnik-po-filmowej-lodzi/) autorstwa Macieja Kronenberga, Marty Wawrzyniak i Aleksandry Sudowskiej.
 
