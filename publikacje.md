@@ -35,6 +35,8 @@ W 2021 r. wydaliśmy drugie, rozszerzone wydanie [*Przewodnik po filmowej Łod
 
 [![Przewodnik po filmowej Łodzi](/img/przewodnik-po-filmowej-lodzi-nowe.jpg)](https://regiocentrum.pl/wydawnictwo/przewodnik-po-filmowej-lodzi-wydanie-nowe)
 
-Najnowszą filmową publikacją w naszym dorobku jest [*Filmowe Poświętne we wspomnieniach mieszkańców*](https://regiocentrum.pl/wydawnictwo/filmowe-poswietne-we-wspomnieniach-mieszkancow) autorstwa Macieja Kronenberga ze zbiorem wspomnień mieszkańców gminy Poświętne.
+Najnowszą książkową publikacją filmową w naszym dorobku jest [*Filmowe Poświętne we wspomnieniach mieszkańców*](https://regiocentrum.pl/wydawnictwo/filmowe-poswietne-we-wspomnieniach-mieszkancow) autorstwa Macieja Kronenberga ze zbiorem wspomnień mieszkańców gminy Poświętne.
 
 [![Filmowe Poświętne we wspomnieniach mieszkańców](/img/filmowe-poswietne.jpg)](https://regiocentrum.pl/media/pages/wydawnictwo/filmowe-poswietne-we-wspomnieniach-mieszkancow/d403176800-1672740868/filmowe-poswietne_www.pdf)
+
+W 2024 r. podjęliśmy działania na rzecz ożywienia Szlaku, przygotowując [nowy folder filmowy] (https://regiocentrum.pl/media/pages/aktualnosci/nowy-folder-filmowe-lodzkie/cbc8055094-1727166981/filmowe-lodzkie-2024_10-09-2024.pdf), prezentujący plenery filmowe województwa łódzkiego z ostatniej dekady.
