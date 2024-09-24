@@ -39,5 +39,6 @@ Najnowszą książkową publikacją filmową w naszym dorobku jest [*Filmowe Po�
 
 [![Filmowe Poświętne we wspomnieniach mieszkańców](/img/filmowe-poswietne.jpg)](https://regiocentrum.pl/media/pages/wydawnictwo/filmowe-poswietne-we-wspomnieniach-mieszkancow/d403176800-1672740868/filmowe-poswietne_www.pdf)
 
-W 2024 r. podjęliśmy działania na rzecz ożywienia Szlaku, przygotowując [nowy folder filmowy] (https://regiocentrum.pl/media/pages/aktualnosci/nowy-folder-filmowe-lodzkie/cbc8055094-1727166981/filmowe-lodzkie-2024_10-09-2024.pdf), prezentujący plenery filmowe województwa łódzkiego z ostatniej dekady.
+W 2024 r. podjęliśmy działania na rzecz ożywienia Szlaku, przygotowując [nowy folder filmowy](https://regiocentrum.pl/media/pages/aktualnosci/nowy-folder-filmowe-lodzkie/cbc8055094-1727166981/filmowe-lodzkie-2024_10-09-2024.pdf), prezentujący plenery filmowe województwa łódzkiego z ostatniej dekady.
+
 [![Folder filmowy 2024](img/folder 2024 okladka.jpg)](https://regiocentrum.pl/media/pages/aktualnosci/nowy-folder-filmowe-lodzkie/cbc8055094-1727166981/filmowe-lodzkie-2024_10-09-2024.pdf)
