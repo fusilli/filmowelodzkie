@@ -12,3 +12,4 @@ Historia „Oświatówki” jako samodzielnej instytucji zaczyna się w roku 194
 Obecnie WFO funkcjonuje jako spółka należąca do samorządu Województwa Łódzkiego. Poza produkcją filmową, Wytwórnia prowadzi również warsztaty związane z produkcją filmową (realizacja filmu, animacja poklatkowa, fotografia, montaż dźwięku i obrazu). 
 Więcej na temat [*Wytwórni*](http://www.wfo.com.pl/).
 Więcej na temat [*warsztatów*](https://www.wfo.com.pl/warsztaty-filmowe/). 
+fot. https://www.wfo.com.pl/warsztaty-filmowe/
