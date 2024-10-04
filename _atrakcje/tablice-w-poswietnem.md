@@ -10,4 +10,4 @@ link: tablice-w-poswietnem
 
 ![Tablica 3](/foto/plenery/poswietne-tablica-3.jpg)
 
-Od września 2020 r. w miejscowości Poświętne stoją trzy tablice poświęcone filmom realizowanym w plenerach gm. Poświętne. Jedna stoi na placu przed bazyliką, druga przy Gminnym Ośrodku Kultury, trzecia przy kościele pw. św. Józefa. Warto dodać że gmina Poświętne stanowiła tło do kilkunastu produkcji fabularnych, a od 2016 r. w centrum stoi też tablica szlaku Filmowe Łódzkie.
+Od września 2020 r. w miejscowości Poświętne stoją trzy tablice poświęcone filmom realizowanym w plenerach gm. Poświętne. Jedna stoi na placu przed bazyliką, druga przy Gminnym Ośrodku Kultury, trzecia przy kościele pw. św. Józefa. Tablice powstały dzięki pracy stowarzyszenia Poświętne nakręcona gmina. Warto dodać że gmina Poświętne stanowiła tło do kilkunastu produkcji fabularnych, a od 2016 r. w centrum stoi też tablica szlaku Filmowe Łódzkie.
