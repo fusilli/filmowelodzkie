@@ -22,3 +22,5 @@ Część plenerów wykorzystanych w filmie to miejsca z województwa łódzkiego
 Kolejny plener z okolic Łodzi to młyn w Boczkach Domaradzkich nad rzeką Mrogą. Młyn prowadzi Zośka (Anna Szymańczyk), to u niej najmuje się do pracy znachor. 
 Z kolei pałac hrabiostwa Czyńskich to rezydencja w Nieborowie. W kadrze pojawia się sień, klatka schodowa i biblioteka, a także pałacowy park - to przez niego idzie Marysia Wilczurówna, odprawiona przez hrabiego.
 W filmie uwieczniono też okolice wsi Moskwa na terenie Parku Krajobrazowego Wzniesień Łódzkich - to tędy, w otoczeniu pól ze zbożem wędruje Antoni Kosiba, tytułowy znachor. Tu pomaga zamontować koło w wozie, a następnie nastawia zwichnięty bark pomocnika młynarki. To również w tym miejscu realizowano scenę wypadku motocyklowego młodego hrabiego i Marysi Wilczurówny.
+
+fot. Krzysztof Trzepocki
