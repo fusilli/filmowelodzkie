@@ -1,6 +1,5 @@
 ---
 title: Popielawy
-mapa: https://www.google.pl/maps/place/97-221+Popielawy/@51.6220879,19.7995477,14z/data=!3m1!4b1!4m6!3m5!1s0x471980a90fda3b89:0xde1c573acec8e49f!8m2!3d51.6204934!4d19.8260968!16s%2Fm%2F04jbzvy?entry=ttu&g_ep=EgoyMDI0MTAwOC4wIKXMDSoASAFQAw%3D%3D
 
 ---
 
