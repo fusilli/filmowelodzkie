@@ -7,7 +7,7 @@ Większość filmów realizowanych w Tomaszowie związanych jest z obszarami na 
 Wyjątkiem jest tu film "Rebus", dramat współczesny, pokazujący realia życia w latach 70. XX w. Można powiedzieć, że Tomaszów zagrał sam siebie - niewielkie miasto z brakiem perspektyw dla młodych. W kadrze uwiecznione zostały Alejki, czyli al. Pilsudskiego, kino Pazowsze przy ul. Jerozolimskiej 1, schody na ul. Rzeźniczej (pomiędzy placem Kościuszki a Tkacką), czy kilka lokali gastronomicznych, m.in. bar Mazowszanka.
 
 ## Tytuły filmów
-- [*Czterej pancerni i pies*](/filmy/czterej-pancerni-i-pies/), reż. Konrad Nałęcki (1966-1969)
+- [*Czterej pancerni i pies*](/filmy/czterej-pancerni-i-pies/), reż. Konrad Nałęcki (1966-1970)
 - [*Rzeczpospolita babska*](/filmy/rzeczpospolita-babska/), reż. Hieronim Przybył (1969)
 - [*Ziemia obiecana*](/filmy/ziemia-obiecana/), reż Andrzej Wajda (1974)
 - Rebus, reż. Tomasz Zygadło (1977)
