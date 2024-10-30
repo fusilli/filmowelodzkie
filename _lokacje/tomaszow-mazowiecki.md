@@ -4,6 +4,7 @@ title: Tomaszów Mazowiecki
 ---
 
 Większość filmów realizowanych w Tomaszowie związanych jest z obszarami na peryferiach - serial [*Czterej pancerni i pies*](/filmy/czterej-pancerni-i-pies/) realizowano przy moście kolejowym na Pilicy, a także przy przystani na tej rzece (teren dzisiejszego ośrodka sportu i rekreacji). Ten sam most pojawia się w filmie "Pożegnanie jesieni". Pilicę w okolicy stacji uzdatniania wody widać w [*Rzeczpospolita babska*](/filmy/rzeczpospolita-babska/), a w [*Ziemia obiecana*](/filmy/ziemia-obiecana/) widać pozostałości spalonej mieszalni pasz przy ul. Głównej.
+
 Wyjątkiem jest tu film "Rebus", dramat współczesny, pokazujący realia życia w latach 70. XX w. Można powiedzieć, że Tomaszów zagrał sam siebie - niewielkie miasto z brakiem perspektyw dla młodych. W kadrze uwiecznione zostały Alejki, czyli al. Pilsudskiego, kino Pazowsze przy ul. Jerozolimskiej 1, schody na ul. Rzeźniczej (pomiędzy placem Kościuszki a Tkacką), czy kilka lokali gastronomicznych, m.in. bar Mazowszanka.
 
 ## Tytuły filmów
