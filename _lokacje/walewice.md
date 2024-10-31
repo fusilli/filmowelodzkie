@@ -13,8 +13,8 @@ Okolice Walewic to z kolei plener [*Popiołów*](/filmy/popioly/) - tu realizowa
 - [*Wielka miłość Balzaka*](/filmy/wielka-milosc-balzaka/), reż. Wojciech Solarz, 1973
 - *Zaklęty dwór*, reż. Antoni Krauze, 1976
 - [*Rodzina Połanieckich*](/filmy/rodzina-polanieckich/), reż. Jan Rybkowski, 1978
-- *Gdzieśkolwiek jest, jeśliś jest, reż. Krzysztof Zanussi, 1987
-- *Haker, reż. Janusz Zaorski, 2002
+- *Gdzieśkolwiek jest, jeśliś jest*, reż. Krzysztof Zanussi, 1987
+- *Haker*, reż. Janusz Zaorski, 2002
 
 ## Informacja krajoznawcza
 W Walewicach znajduje się klasycystyczny pałac szambelana królewskiego Anastazego Walewskiego (wybudowany w 1783 r.), świetnie zachowany, dziś wykorzystywany jako obiekt noclegowy. W miejscowym gospodarstwie już przed I wojną światową rozpoczęto hodowlę koni, dziś to jedna z największych inajważniejszych stadnin w centralnej Polsce. Całość założenia - park z parkiem, zespół zabudowań folwarcznych - tworzy malowniczą całość. Miejscowe konie najczęściej pasą się na pastwisku przy drodze dojazdowej do pałacu, skąd można je bez trudu podziwiać.
