@@ -39,6 +39,7 @@ legenda:
 Nieborów to rezydencja, gdzie wyjątkowo często gościły międzynarodowe ekipy filmowe. Tu powstawały koprodukcje polsko-francuskie i polsko-brytyjskie jak [*Wielka miłość Balzaka*](/filmy/wielka-milosc-balzaka/), [*Marie Curie. Une femme honorable*](/filmy/marie-curie-une-femme-honorable/), [*Sherlock Holmes i Doktor Watson*](/filmy/sherlock-holmes-i-doktor-watson/), czy [*Nowe przygody Arsena Lupin*](/filmy/nowe-przygody-arsena-lupin/). Najwięcej zagranicznych filmowców trafiło tutaj na początku lat 90. XX w. – po otwarciu granic zachodni twórcy chętnie korzystali ze stosunkowo tanich plenerów w Polsce. Miejsce takie jak Nieborów, gdzie pałac stanowił niemal gotową scenografię filmów historycznych, a dodatkowo był położony stosunkowo niedaleko od Warszawy, bardzo na tym korzystało. 
 
 Oczywiście w Nieborowie powstawały również znane polskie filmy. Wnętrza pałacu wykorzystane były w dwóch obrazach A. Wajdy – [*Lotnej*](/filmy/lotna/) i [*Popiołach*](/filmy/popioly/), a także m.in. w [*Złocie dezerterów*](/filmy/zloto-dezerterow/), czy nawet w serialu [*Ojciec Mateusz*](/filmy/ojciec-mateusz/). W tym ostatnim zdjęcia realizowano w bibliotece, która w serialu przeobraża się w gabinet biskupa. Biblioteka to zresztą najczęściej uwieczniane przez filmowców pomieszczenie, chociaż ogółem wykorzystano niemal wszystkie pomieszczenia z reprezentacyjnego piętra pałacu. Dzięki kadrom z [*Wielkiej miłości Balzaka*](/filmy/wielka-milosc-balzaka/) można nawet zajrzeć do niedostępnej dla zwiedzających sali weneckiej na parterze – dziś służy ona jako jadalnia dla gości nocujących w pałacu, w serialu było to miejsce gdzie goście hrabiostwa Hańskich tańczyli poloneza. 
+Najnowszym filmem realizowanym w pałacu (ale także w parku) jest [*Znachor*](/filmy/znachor/). W nowej adaptacji powieści Tadeusza Dołęgi-Mostowicza obejrzeć można sień, klatkę schodową, a także bibliotekę. 
 
 Otaczający rezydencję park stał się w [*Akademii Pana Kleksa*](/filmy/akademia-pana-kleksa/) ogrodem, przez który profesor prowadził uczniów do swojej szkoły, a także gdzie chłopcy uczyli się geografii. Z parkiem w Nieborowie związana jest również jedna z najzabawniejszych scen w historii polskiej kinematografii – to tu rozgrywały się w serialu [*Kariera Nikodema Dyzmy*](/filmy/kariera-nikodema-dyzmy/) rozmowy Żorża Ponimirskiego (Wojciech Pokora) z Nikodemem Dyzmą (Roman Wilhelmi) m.in. na temat tego kto jest wariatem, a kto bydlęciem... 
 
@@ -58,7 +59,8 @@ Filmową historię posiada również romantyczny park położony w sąsiadujące
 - [*Frankenstein*](/filmy/frankenstein/), reż. David Wickes (1993)
 - [*Złoto dezerterów*](/filmy/zloto-dezerterow/), reż. Janusz Majewski (1998)
 - [*Tajemnica twierdzy szyfrów*](/filmy/tajemnica-twierdzy-szyfrow/), reż. Bogusław Wołoszański (2007)
-- [*Ojciec Mateusz*](/filmy/ojciec-mateusz/), reż. Andrzej Kostenko i inni (2008–2016)
+- [*Ojciec Mateusz*](/filmy/ojciec-mateusz/), reż. Andrzej Kostenko i inni (2008–2024)
+- [*Znachor*](/filmy/znachor/), reż. Michał Gazda (2023)
 
 ## Informacja krajoznawcza
 
