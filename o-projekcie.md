@@ -9,4 +9,5 @@ W ramach projektu zostało przygotowane m.in. [eksperckie opracowanie dotyczące
 
 W roku 2024 przeprowadzona została aktualizacja serwisu filmowelodzkie.pl. Zadanie zostało sfinansowane ze środków Samorządu Województwa Łódzkiego w ramach konkursu dotacyjnego z turystyki i krajoznawstwa.
 
-foto/informacja o finansowaniu_filmowe lodzkie 2024.jpg
+<img width="708" height="191" alt="informacja o finansowaniu_filmowe lodzkie 2024" src="https://github.com/user-attachments/assets/c838604c-f8b5-4204-8106-41a7c17d8818" />
+
